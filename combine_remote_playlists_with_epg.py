@@ -8,6 +8,8 @@ PLAYLISTS = [
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/direct.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/rocket300.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/xumo.m3u8", 
+    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/pluto_us.m3u", 
+    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/pluto_gb.m3u", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/ott-news.m3u8", 
     "https://github.com/insa-ship-it/sports/raw/refs/heads/main/liveeventsfilter.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/religion.m3u8",
