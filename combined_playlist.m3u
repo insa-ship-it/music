@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-08-02T08:48:34.833558 UTC
+# Generated on 2026-08-11T20:15:10.128284 UTC
 
 #PLAYLIST:x dancetv
 #EXTGRP:x dancetv
@@ -567,8 +567,6 @@ http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1948653&extension=t
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1948652&extension=ts&play_token=ZpEEjjRzSo
 #EXTINF:-1 tvg-id="StingrayVibe.ca" tvg-name="Stingray Vibe" group-title="ENG - Music Videos",Stingray Vibe
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1566862&extension=ts&play_token=CJpost60jr
-#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca" tvg-name="Stingray Holidayscapes FHD" group-title="ENG - Music Videos",Stingray Holidayscapes FHD
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1566937&extension=ts&play_token=u4DqgROhrh
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.us" tvg-name="Stingray Qello Concerts" group-title="ENG - Music Videos",Stingray Qello Concerts
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1566936&extension=ts&play_token=LawFVYFxrX
 #EXTINF:-1 tvg-id="StingrayHip-Hop_RandB.ca" tvg-name="Stingray Hip-Hop/R&B" group-title="ENG - Music Videos",Stingray Hip-Hop/R&B
@@ -617,23 +615,19 @@ http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423340&extension=t
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423334&extension=ts&play_token=Ekhzq3S9vv
 #EXTINF:-1 tvg-name="MTV Live FHD UK" group-title="ENG - Music Videos",MTV Live FHD UK
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=45325&extension=ts&play_token=gSyQOEjTCo
-#EXTINF:-1 tvg-id="MusicChoiceThrowbackJams.us" tvg-name="MC Throwback Jams UK" group-title="ENG - Music Videos",MC Throwback Jams UK
+#EXTINF:-1 tvg-id="MusicChoiceThrowbackJams.us" tvg-name="MC Throwback Jams" group-title="ENG - Music Videos",MC Throwback Jams
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014289&extension=ts&play_token=Ek94YN96Fk
-#EXTINF:-1 tvg-id="MusicChoiceJoyfulInstrumentals.us" tvg-name="MC Joyful Instrumentals UK" group-title="ENG - Music Videos",MC Joyful Instrumentals UK
+#EXTINF:-1 tvg-id="MusicChoiceJoyfulInstrumentals.us" tvg-name="MC Joyful Instrumentals" group-title="ENG - Music Videos",MC Joyful Instrumentals
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014287&extension=ts&play_token=6vbgonPc5m
-#EXTINF:-1 tvg-id="MusicChoiceTodaysCountry.us" tvg-name="MC Today's Country UK" group-title="ENG - Music Videos",MC Today's Country UK
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014286&extension=ts&play_token=D5JEspj0Ne
-#EXTINF:-1 tvg-id="MusicChoiceRock.us" tvg-name="MC Rock UK" group-title="ENG - Music Videos",MC Rock UK
+#EXTINF:-1 tvg-id="MusicChoiceRock.us" tvg-name="MC Rock" group-title="ENG - Music Videos",MC Rock
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014284&extension=ts&play_token=5Ou85NjSuM
-#EXTINF:-1 tvg-id="MusicChoiceDance.us" tvg-name="MC Dance UK" group-title="ENG - Music Videos",MC Dance UK
+#EXTINF:-1 tvg-id="MusicChoiceDance.us" tvg-name="MC Dance 1 (Alt1)" group-title="ENG - Music Videos",MC Dance 1
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014283&extension=ts&play_token=hkFifPP0tG
 #EXTINF:-1 tvg-id="MusicChoiceCalmingClassical.us" tvg-name="MC Calming Classical UK" group-title="ENG - Music Videos",MC Calming Classical UK
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014277&extension=ts&play_token=wULmdcYHOQ
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Today's Hits UK" group-title="ENG - Music Videos",MC Today's Hits UK
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014276&extension=ts&play_token=2HHju1rPMD
-#EXTINF:-1 tvg-id="MusicChoiceHip-HopClassics.us" tvg-name="MC Hip-Hop Classics UK" group-title="ENG - Music Videos",MC Hip-Hop Classics UK
+#EXTINF:-1 tvg-id="MusicChoiceHip-HopClassics.us" tvg-name="MC Hip-Hop Classics" group-title="ENG - Music Videos",MC Hip-Hop Classics
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014275&extension=ts&play_token=WR8EdeFMlL
-#EXTINF:-1 tvg-id="MusicChoiceDance.us" tvg-name="MC Dance EDM UK" group-title="ENG - Music Videos",MC Dance EDM UK
+#EXTINF:-1 tvg-id="MusicChoiceDance.us" tvg-name="MC Dance 2" group-title="ENG - Music Videos",MC Dance 2
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014274&extension=ts&play_token=xBOkJVPkNT
 #EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="Clubland TV UK" group-title="ENG - Music Videos",Clubland TV UK
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=163793&extension=ts&play_token=yDM5ycZ8Op
@@ -641,35 +635,35 @@ http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=163793&extension=ts
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=164022&extension=ts&play_token=2W96YuGCqN
 #EXTINF:-1 tvg-id="NOW.90s.uk" tvg-name="NOW 90s UK" group-title="ENG - Music Videos",NOW 90s UK
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=163796&extension=ts&play_token=7TBXXMyKZi
-#EXTINF:-1 tvg-id="MusicChoice90s.us" tvg-name="MC 90'S - DIRECT ᴴᴰ" group-title="ENG - Music Videos",MC 90'S - DIRECT ᴴᴰ
+#EXTINF:-1 tvg-id="MusicChoice80s.us" tvg-name="MC '80'S - DIRECT ᴴᴰ" group-title="ENG - Music Videos",MC '80'S - DIRECT ᴴᴰ
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921464&extension=ts&play_token=p5TnrQrfxq
 #EXTINF:-1 tvg-id="MusicChoiceCountryFavorites.us" tvg-name="MC Country Favorites - DIRECT ᴴᴰ" group-title="ENG - Music Videos",MC Country Favorites - DIRECT ᴴᴰ
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921462&extension=ts&play_token=agNP12dQeJ
-#EXTINF:-1 tvg-id="MusicChoiceHip-HopandRandB.us" tvg-name="MC Hip-Hop/R&B - DIRECT ᴴᴰ" group-title="ENG - Music Videos",MC Hip-Hop/R&B - DIRECT ᴴᴰ
+#EXTINF:-1 tvg-id="MusicChoiceHip-HopandRandB.us" tvg-name="MC Hip-Hop/R&B" group-title="ENG - Music Videos",MC Hip-Hop/R&B
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921460&extension=ts&play_token=5ufKVyTZJH
 #EXTINF:-1 tvg-id="MusicChoice60sAnd70sMellowHits.us" tvg-name="MC '60s & 70s Mellow Hits - DIRECT ᴴᴰ" group-title="ENG - Music Videos",MC '60s & 70s Mellow Hits - DIRECT ᴴᴰ
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921456&extension=ts&play_token=CYAXk0kVmP
-#EXTINF:-1 tvg-id="MusicChoicePopAndCountry.us" tvg-name="MC POP & COUNTRY - DIRECT ᴴᴰ" group-title="ENG - Music Videos",MC POP & COUNTRY - DIRECT ᴴᴰ
+#EXTINF:-1 tvg-id="MusicChoicePopAndCountry.us" tvg-name="MC POP & COUNTRY" group-title="ENG - Music Videos",MC POP & COUNTRY
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921454&extension=ts&play_token=iZ0NZRWmU9
-#EXTINF:-1 tvg-id="MusicChoicePopHits.us" tvg-name="MC Pop Hits - DIRECT ᴴᴰ" group-title="ENG - Music Videos",MC Pop Hits - DIRECT ᴴᴰ
+#EXTINF:-1 tvg-id="MusicChoicePopHits.us" tvg-name="MC Pop Hits" group-title="ENG - Music Videos",MC Pop Hits
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921453&extension=ts&play_token=SMzV155ijr
-#EXTINF:-1 tvg-id="MusicChoiceDance.us" tvg-name="MC Dance - DIRECT ᴴᴰ" group-title="ENG - Music Videos",MC Dance - DIRECT ᴴᴰ
+#EXTINF:-1 tvg-id="MusicChoiceDance.us" tvg-name="MC Dance 1 (Alt1)" group-title="ENG - Music Videos",MC Dance 1 (Alt1)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921449&extension=ts&play_token=lT4kUE2DO2
-#EXTINF:-1 tvg-id="MusicChoiceSoftRock.us" tvg-name="MC Soft Rock - DIRECT ᴴᴰ" group-title="ENG - Music Videos",MC Soft Rock - DIRECT ᴴᴰ
+#EXTINF:-1 tvg-id="MusicChoiceSoftRock.us" tvg-name="MC Soft Rock" group-title="ENG - Music Videos",MC Soft Rock
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921448&extension=ts&play_token=V1kOI2hKrz
-#EXTINF:-1 tvg-id="MusicChoiceThrowbackJams.us" tvg-name="MC Throwback Jams - DIRECT ᴴᴰ" group-title="ENG - Music Videos",MC Throwback Jams - DIRECT ᴴᴰ
+#EXTINF:-1 tvg-id="MusicChoiceThrowbackJams.us" tvg-name="MC Throwback Jams 2" group-title="ENG - Music Videos",MC Throwback Jams 2
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921446&extension=ts&play_token=jn52RDNjTn
 #EXTINF:-1 tvg-id="MusicChoice70sAnd80sFavorites.us" tvg-name="MC '70s & '80s Favorites - DIRECT ᴴᴰ" group-title="ENG - Music Videos",MC '70s & '80s Favorites - DIRECT ᴴᴰ
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921444&extension=ts&play_token=0beeNORsSL
-#EXTINF:-1 tvg-id="MusicChoiceJoyfulInstrumentals.us" tvg-name="MC Joyful Instrumentals - DIRECT ᴴᴰ" group-title="ENG - Music Videos",MC Joyful Instrumentals - DIRECT ᴴᴰ
+#EXTINF:-1 tvg-id="MusicChoiceJoyfulInstrumentals.us" tvg-name="MC Joyful Instrumentals (Alt1)" group-title="ENG - Music Videos",MC Joyful Instrumentals (Alt1)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921443&extension=ts&play_token=xBAXaDucdK
-#EXTINF:-1 tvg-id="MusicChoice90s.us" tvg-name="MC '90s - DIRECT ᴴᴰ" group-title="ENG - Music Videos",MC '90s - DIRECT ᴴᴰ
+#EXTINF:-1 tvg-id="MusicChoice90s.us" tvg-name="MC '90s" group-title="ENG - Music Videos",MC '90s
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921442&extension=ts&play_token=OcOByw1hN1
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Celine Dion Concerts" group-title="ENG - Music Videos",Celine Dion Concerts
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1061870&extension=ts&play_token=oOsAZ5Rmce
 #EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="Clubland TV (Alt)" group-title="ENG - Music Videos",Clubland TV (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372117&extension=ts&play_token=i5C4M3JoUH
-#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="DJ STINGRAY FHD" group-title="ENG - Music Videos",DJ STINGRAY FHD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DJ STINGRAY FHD" group-title="ENG - Music Videos",DJ STINGRAY FHD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=830782&extension=ts&play_token=kk7D1PuJSk
 #EXTINF:-1 tvg-id="Elvis.Presley.Music.Channel.DUMMY.us" tvg-name="Elvis Presley Music" group-title="ENG - Music Videos",Elvis Presley Music
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1061871&extension=ts&play_token=xoMtGjZNUb
@@ -679,25 +673,21 @@ http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=956413&extension=ts
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1061872&extension=ts&play_token=aoOx5poPuP
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Madonna Music" group-title="ENG - Music Videos",Madonna Music
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1061873&extension=ts&play_token=mzo3XiRdoT
-#EXTINF:-1 tvg-id="MusicChoiceDance.us" tvg-name="MC Dance EDM" group-title="ENG - Music Videos",MC Dance EDM
+#EXTINF:-1 tvg-id="MusicChoiceDance.us" tvg-name="MC Dance 2 (Alt1)" group-title="ENG - Music Videos",MC Dance 2 (Alt1)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372109&extension=ts&play_token=cPlilj2KHY
-#EXTINF:-1 tvg-id="MusicChoiceHip-HopClassics.us" tvg-name="MC Hip-Hop Classics" group-title="ENG - Music Videos",MC Hip-Hop Classics
+#EXTINF:-1 tvg-id="MusicChoiceHip-HopClassics.us" tvg-name="MC Hip-Hop Classics (Alt)" group-title="ENG - Music Videos",MC Hip-Hop Classics (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372108&extension=ts&play_token=AmBZpnd8wJ
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Today's Hits" group-title="ENG - Music Videos",MC Today's Hits
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372107&extension=ts&play_token=M9Vv3VMvUM
 #EXTINF:-1 tvg-id="MusicChoiceCalmingClassical.us" tvg-name="MC Calming Classical" group-title="ENG - Music Videos",MC Calming Classical
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372106&extension=ts&play_token=ea6Pke9WFN
-#EXTINF:-1 tvg-id="MusicChoicePopHits.us" tvg-name="MC Pop Hits" group-title="ENG - Music Videos",MC Pop Hits
+#EXTINF:-1 tvg-id="MusicChoicePopHits.us" tvg-name="MC Pop Hits (Alt)" group-title="ENG - Music Videos",MC Pop Hits (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372103&extension=ts&play_token=SabiWNOkhl
 #EXTINF:-1 tvg-id="MusicChoiceSleepNoise.us" tvg-name="MC Sleep Sounds" group-title="ENG - Music Videos",MC Sleep Sounds
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372102&extension=ts&play_token=y4sLFvNUVh
-#EXTINF:-1 tvg-id="MusicChoiceRock.us" tvg-name="MC ROCK" group-title="ENG - Music Videos",MC ROCK
+#EXTINF:-1 tvg-id="MusicChoiceRock.us" tvg-name="MC Rock (Alt)" group-title="ENG - Music Videos",MC Rock (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372099&extension=ts&play_token=wBn1XPG742
-#EXTINF:-1 tvg-id="MusicChoiceThrowbackJams.us" tvg-name="MC Throwback Jams" group-title="ENG - Music Videos",MC Throwback Jams
+#EXTINF:-1 tvg-id="MusicChoiceThrowbackJams.us" tvg-name="MC Throwback Jams (Alt)" group-title="ENG - Music Videos",MC Throwback Jams (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372094&extension=ts&play_token=z96Ufq01t4
-#EXTINF:-1 tvg-id="MusicChoiceTodaysCountry.us" tvg-name="MC Today's Country" group-title="ENG - Music Videos",MC Today's Country
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372097&extension=ts&play_token=U9gP3DUm9e
-#EXTINF:-1 tvg-id="MusicChoiceJoyfulInstrumentals.us" tvg-name="MC Joyful Instrumentals" group-title="ENG - Music Videos",MC Joyful Instrumentals
+#EXTINF:-1 tvg-id="MusicChoiceJoyfulInstrumentals.us" tvg-name="MC Joyful Instrumentals (Alt2)" group-title="ENG - Music Videos",MC Joyful Instrumentals (Alt2)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372096&extension=ts&play_token=X8pPcJwPtb
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Michael Jackson Music" group-title="ENG - Music Videos",Michael Jackson Music
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=930686&extension=ts&play_token=0NTE9TCyRx
@@ -707,7 +697,7 @@ http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=887378&extension=ts
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=887377&extension=ts&play_token=qoTEY6rL68
 #EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live HD US" group-title="ENG - Music Videos",MTV Live HD US
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372084&extension=ts&play_token=XS24PR3j71
-#EXTINF:-1 tvg-id="MTV.Norway.(NO,NO).no" tvg-name="MTV Norway" group-title="ENG - Music Videos",NO).no" tvg-name="MTV Norway" group-title="ENG | Music",MTV Norway
+#EXTINF:-1 tvg-id="MTV.Norway.(NO,NO).no" tvg-name="MTV Norway" group-title="ENG - Music Videos",NO).no" tvg-name="MTV Norway" group-title="ENG - Music Videos",NO).no" tvg-name="MTV Norway" group-title="ENG | Music",MTV Norway
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=887376&extension=ts&play_token=kOiGZp8sWc
 #EXTINF:-1 tvg-id="NOW70s.uk" tvg-name="NOW 70s" group-title="ENG - Music Videos",NOW 70s
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372131&extension=ts&play_token=TmCQA91kMU
@@ -859,14 +849,26 @@ http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1505561&extension=t
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1505560&extension=ts&play_token=tD6smPdUk4
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Relax Norway 1920" group-title="Ambiance",Relax Norway 1920
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1505559&extension=ts&play_token=vYmB0fDAaP
+#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca" tvg-name="Stingray Holidayscapes FHD" group-title="Ambiance",Stingray Holidayscapes FHD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1566937&extension=ts&play_token=u4DqgROhrh
 #EXTINF:-1 tvg-id="StingrayNaturescape4K.ca" tvg-name="Stingray Naturescape 4K (Alt)" group-title="Ambiance",Stingray Naturescape 4K (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423358&extension=ts&play_token=al9b26JRTn
 
+#GROUP:ENG - Entertainment
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV FHD UK" group-title="ENG - Entertainment",MTV FHD UK
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=45326&extension=ts&play_token=d7pcvnjcp0
+
+#GROUP:Z - Offline Streams
+#EXTINF:-1 tvg-id="MusicChoiceTodaysCountry.us" tvg-name="MC Today's Country UK" group-title="Z - Offline Streams",MC Today's Country UK
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014286&extension=ts&play_token=D5JEspj0Ne
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Today's Hits UK" group-title="Z - Offline Streams",MC Today's Hits UK
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014276&extension=ts&play_token=2HHju1rPMD
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Today's Hits" group-title="Z - Offline Streams",MC Today's Hits
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372107&extension=ts&play_token=M9Vv3VMvUM
+#EXTINF:-1 tvg-id="MusicChoiceTodaysCountry.us" tvg-name="MC Today's Country" group-title="Z - Offline Streams",MC Today's Country
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372097&extension=ts&play_token=U9gP3DUm9e
+
 #GROUP:ESP - Música
-#EXTINF:-1 tvg-name="Stingray Today's Latin Pop" group-title="ESP - Música",Stingray Today's Latin Pop CA
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1566934&extension=ts&play_token=yJ7jC0QYq1
-#EXTINF:-1 tvg-name="Stingray Romance Latino CA" group-title="ESP - Música",Stingray Romance Latino CA
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1566916&extension=ts&play_token=547IMCjfSc
 #EXTINF:-1 tvg-name="MC Tropicales UK" group-title="ESP - Música",MC Tropicales UK
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014285&extension=ts&play_token=XYkBUpZwTu
 #EXTINF:-1 tvg-name="MC Romantic Latin Pop - DIRECT ᴴᴰ" group-title="ESP - Música",MC Romantic Latin Pop - DIRECT ᴴᴰ
@@ -876,9 +878,71 @@ http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372116&extension=t
 #EXTINF:-1 tvg-name="MC Tropicales" group-title="ESP - Música",MC Tropicales
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372098&extension=ts&play_token=LPdLaOL2Gl
 
-#GROUP:ENG - Entertainment
-#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV FHD UK" group-title="ENG - Entertainment",MTV FHD UK
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=45326&extension=ts&play_token=d7pcvnjcp0
+
+==================================================
+
+#PLAYLIST:x stingray
+#EXTGRP:x stingray
+
+#GROUP:ENG - Music Videos
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.us" tvg-name="Qello Concerts by Stingray FHD" group-title="ENG - Music Videos",Qello Concerts by Stingray FHD
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-name="Stingray Classic Rock FHD" group-title="ENG - Music Videos",Stingray Classic Rock FHD
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-name="Stingray Classica FHD" group-title="ENG - Music Videos",Stingray Classica FHD
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayCMusic.ca@SD" tvg-name="Stingray CMusic FHD" group-title="ENG - Music Videos",Stingray CMusic FHD EPG
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayDJazz.ca" tvg-name="Stingray DJAZZ FHD" group-title="ENG - Music Videos",Stingray DJAZZ FHD
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-name="Stingray Easy Listening FHD" group-title="ENG - Music Videos",Stingray Easy Listening FHD
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEuroHits.us" tvg-name="Stingray Euro Hits FHD" group-title="ENG - Music Videos",Stingray Euro Hits FHD
+https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-name="Stingray Flashback 70s FHD" group-title="ENG - Music Videos",Stingray Flashback 70s FHD
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayGreatestHits.us" tvg-name="Stingray Greatest Hits FHD" group-title="ENG - Music Videos",Stingray Greatest Hits FHD
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-name="Stingray Hit List FHD" group-title="ENG - Music Videos",Stingray Hit List FHD
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca" tvg-name="Stingray Holidayscapes FHD" group-title="ENG - Music Videos",Stingray Holidayscapes FHD
+https://d10cyxntpn0bwm.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca" tvg-name="Stingray Holidayscapes FHD (Alt1)" group-title="ENG - Music Videos",Stingray Holidayscapes FHD (Alt1)
+https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-name="Stingray Hot Country FHD" group-title="ENG - Music Videos",Stingray Hot Country FHD
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayJukeboxOldies.ca" tvg-name="Stingray Jukebox Oldies FHD" group-title="ENG - Music Videos",Stingray Jukebox Oldies FHD
+https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca@SD" tvg-name="Stingray Karaoke FHD" group-title="ENG - Music Videos",Stingray Karaoke FHD
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-name="Stingray Naturescape FHD" group-title="ENG - Music Videos",Stingray Naturescape FHD
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNothinbut90s.ca" tvg-name="Stingray Nothin' But 90s FHD" group-title="ENG - Music Videos",Stingray Nothin' But 90s FHD
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-name="Stingray Pop Adult FHD" group-title="ENG - Music Videos",Stingray Pop Adult FHD
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRememberthe80s.ca" tvg-name="Stingray Remember the 80s FHD" group-title="ENG - Music Videos",Stingray Remember the 80s FHD
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayAlternative.ca" tvg-name="Stingray Alternative FHD" group-title="ENG - Music Videos",Stingray Alternative FHD
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.us" tvg-name="Stingray Romance Latino FHD" group-title="ENG - Music Videos",Stingray Romance Latino FHD
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySmoothJazz.ca" tvg-name="Stingray Smooth Jazz FHD" group-title="ENG - Music Videos",Stingray Smooth Jazz FHD
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Soft Hits FHD" group-title="ENG - Music Videos",Stingray Soft Hits FHD
+https://lotus.stingray.com/manifest/ose-237ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySoulStorm.us" tvg-name="Stingray Soul Storm FHD" group-title="ENG - Music Videos",Stingray Soul Storm FHD
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTheSpa.us" tvg-name="Stingray The Spa FHD" group-title="ENG - Music Videos",Stingray The Spa FHD
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Today's KPOP FHD" group-title="ENG - Music Videos",Stingray Today's KPOP FHD
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Today's Latin Pop FHD" group-title="ENG - Music Videos",Stingray Today's Latin Pop FHD
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Urban Beat FHD" group-title="ENG - Music Videos",Stingray Urban Beat FHD
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray ZenLIFE FHD" group-title="ENG - Music Videos",Stingray ZenLIFE FHD
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
 
 
 ==================================================
