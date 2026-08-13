@@ -1,27 +1,27 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-08-11T20:15:10.128284 UTC
+# Generated on 2026-08-13T23:56:34.676936 UTC
 
 #PLAYLIST:x dancetv
 #EXTGRP:x dancetv
 
-#GROUP:ENG - Music Videos
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Best of" group-title="ENG - Music Videos",DanceTV: Best of
+#GROUP:Music (All Lang)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Best of" group-title="Music (All Lang)",DanceTV: Best of
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Deep House District" group-title="ENG - Music Videos",DanceTV: Deep House District
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Deep House District" group-title="Music (All Lang)",DanceTV: Deep House District
 https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Techno Warehouse" group-title="ENG - Music Videos",DanceTV: Techno Warehouse
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Techno Warehouse" group-title="Music (All Lang)",DanceTV: Techno Warehouse
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Techno House Terrace" group-title="ENG - Music Videos",DanceTV: Techno House Terrace
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Techno House Terrace" group-title="Music (All Lang)",DanceTV: Techno House Terrace
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: House Floor" group-title="ENG - Music Videos",DanceTV: House Floor
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: House Floor" group-title="Music (All Lang)",DanceTV: House Floor
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Minimal" group-title="ENG - Music Videos",DanceTV: Minimal
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Minimal" group-title="Music (All Lang)",DanceTV: Minimal
 https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Mainstream EDM" group-title="ENG - Music Videos",DanceTV: Mainstream EDM
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Mainstream EDM" group-title="Music (All Lang)",DanceTV: Mainstream EDM
 https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Chill AF Downtempo" group-title="ENG - Music Videos",DanceTV: Chill AF Downtempo
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Chill AF Downtempo" group-title="Music (All Lang)",DanceTV: Chill AF Downtempo
 https://mbit1.worldcast.tv:9443/dancetelevisioneight/multibit.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Melodic Techno" group-title="ENG - Music Videos",DanceTV: Melodic Techno
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Melodic Techno" group-title="Music (All Lang)",DanceTV: Melodic Techno
 https://mbit1.worldcast.tv:9443/dancetelevisionnine/multibit.m3u8
 
 
@@ -30,282 +30,282 @@ https://mbit1.worldcast.tv:9443/dancetelevisionnine/multibit.m3u8
 #PLAYLIST:x iheart
 #EXTGRP:x iheart
 
-#GROUP:ENG - Music Radio
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1950's" group-title="ENG - Music Radio",iHeart 1950's
+#GROUP:Music (All Lang)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1950's" group-title="Music (All Lang)",iHeart 1950's
 https://stream.revma.ihrhls.com/zc6882/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1960's" group-title="ENG - Music Radio",iHeart 1960's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1960's" group-title="Music (All Lang)",iHeart 1960's
 https://stream.revma.ihrhls.com/zc6873/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1970's" group-title="ENG - Music Radio",iHeart 1970's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1970's" group-title="Music (All Lang)",iHeart 1970's
 https://stream.revma.ihrhls.com/zc6843/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1970's Rock Ride" group-title="ENG - Music Radio",iHeart 1970's Rock Ride
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1970's Rock Ride" group-title="Music (All Lang)",iHeart 1970's Rock Ride
 https://stream.revma.ihrhls.com/zc6803/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1980's" group-title="ENG - Music Radio",iHeart 1980's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1980's" group-title="Music (All Lang)",iHeart 1980's
 https://stream.revma.ihrhls.com/zc5060/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1980's Rock Ride" group-title="ENG - Music Radio",iHeart 1980's Rock Ride
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1980's Rock Ride" group-title="Music (All Lang)",iHeart 1980's Rock Ride
 https://stream.revma.ihrhls.com/zc10054/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1990's" group-title="ENG - Music Radio",iHeart 1990's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1990's" group-title="Music (All Lang)",iHeart 1990's
 https://stream.revma.ihrhls.com/zc6834/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 2000's" group-title="ENG - Music Radio",iHeart 2000's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 2000's" group-title="Music (All Lang)",iHeart 2000's
 https://stream.revma.ihrhls.com/zc6850/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 2010's" group-title="ENG - Music Radio",iHeart 2010's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 2010's" group-title="Music (All Lang)",iHeart 2010's
 https://stream.revma.ihrhls.com/zc8478/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart After MidNite" group-title="ENG - Music Radio",iHeart After MidNite
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart After MidNite" group-title="Music (All Lang)",iHeart After MidNite
 https://stream.revma.ihrhls.com/zc6563/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT 2000's" group-title="ENG - Music Radio",iHeart ALT 2000's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT 2000's" group-title="Music (All Lang)",iHeart ALT 2000's
 https://stream.revma.ihrhls.com/zc7727/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Radio" group-title="ENG - Music Radio",iHeart ALT Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Radio" group-title="Music (All Lang)",iHeart ALT Radio
 https://stream.revma.ihrhls.com/zc4447/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Rewind" group-title="ENG - Music Radio",iHeart ALT Rewind
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Rewind" group-title="Music (All Lang)",iHeart ALT Rewind
 https://stream.revma.ihrhls.com/zc6950/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Top 20" group-title="ENG - Music Radio",iHeart ALT Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Top 20" group-title="Music (All Lang)",iHeart ALT Top 20
 https://stream.revma.ihrhls.com/zc9759/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT X" group-title="ENG - Music Radio",iHeart ALT X
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT X" group-title="Music (All Lang)",iHeart ALT X
 https://stream.revma.ihrhls.com/zc10098/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart American Top 40" group-title="ENG - Music Radio",iHeart American Top 40
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart American Top 40" group-title="Music (All Lang)",iHeart American Top 40
 https://stream.revma.ihrhls.com/zc4802/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Beso" group-title="ENG - Music Radio",iHeart Beso
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Beso" group-title="Music (All Lang)",iHeart Beso
 https://stream.revma.ihrhls.com/zc7193/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Big Hits (1970's-1990's)" group-title="ENG - Music Radio",iHeart Big Hits (1970's-1990's)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Big Hits (1970's-1990's)" group-title="Music (All Lang)",iHeart Big Hits (1970's-1990's)
 https://stream.revma.ihrhls.com/zc4455/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Black Jazz & Blues" group-title="ENG - Music Radio",iHeart Black Jazz & Blues
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Black Jazz & Blues" group-title="Music (All Lang)",iHeart Black Jazz & Blues
 https://stream.revma.ihrhls.com/zc7804/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Bluegrass" group-title="ENG - Music Radio",iHeart Bluegrass
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Bluegrass" group-title="Music (All Lang)",iHeart Bluegrass
 https://stream.revma.ihrhls.com/zc6892/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Blues Hits Radio" group-title="ENG - Music Radio",iHeart Blues Hits Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Blues Hits Radio" group-title="Music (All Lang)",iHeart Blues Hits Radio
 https://stream.revma.ihrhls.com/zc9567/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Bluestown" group-title="ENG - Music Radio",iHeart Bluestown
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Bluestown" group-title="Music (All Lang)",iHeart Bluestown
 https://stream.revma.ihrhls.com/zc10029/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart British Invasion" group-title="ENG - Music Radio",iHeart British Invasion
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart British Invasion" group-title="Music (All Lang)",iHeart British Invasion
 https://stream.revma.ihrhls.com/zc5708/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Broadway" group-title="ENG - Music Radio",iHeart Broadway
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Broadway" group-title="Music (All Lang)",iHeart Broadway
 https://stream.revma.ihrhls.com/zc7378/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cafe" group-title="ENG - Music Radio",iHeart Cafe
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cafe" group-title="Music (All Lang)",iHeart Cafe
 https://stream.revma.ihrhls.com/zc6951/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cardio Mix" group-title="ENG - Music Radio",iHeart Cardio Mix
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cardio Mix" group-title="Music (All Lang)",iHeart Cardio Mix
 https://stream.revma.ihrhls.com/zc7250/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Casey Kasem's Top 40 (1970's-1980's)" group-title="ENG - Music Radio",iHeart Casey Kasem's Top 40 (1970's-1980's)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Casey Kasem's Top 40 (1970's-1980's)" group-title="Music (All Lang)",iHeart Casey Kasem's Top 40 (1970's-1980's)
 https://stream.revma.ihrhls.com/zc6545/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Casey Kasem's Top 40 (1990's-2000's)" group-title="ENG - Music Radio",iHeart Casey Kasem's Top 40 (1990's-2000's)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Casey Kasem's Top 40 (1990's-2000's)" group-title="Music (All Lang)",iHeart Casey Kasem's Top 40 (1990's-2000's)
 https://stream.revma.ihrhls.com/zc10423/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Chill Beats Radio" group-title="ENG - Music Radio",iHeart Chill Beats Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Chill Beats Radio" group-title="Music (All Lang)",iHeart Chill Beats Radio
 https://stream.revma.ihrhls.com/zc9959/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Chill Jams" group-title="ENG - Music Radio",iHeart Chill Jams
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Chill Jams" group-title="Music (All Lang)",iHeart Chill Jams
 https://stream.revma.ihrhls.com/zc4719/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Funk" group-title="ENG - Music Radio",iHeart Classic Funk
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Funk" group-title="Music (All Lang)",iHeart Classic Funk
 https://stream.revma.ihrhls.com/zc6955/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Hard Rock" group-title="ENG - Music Radio",iHeart Classic Hard Rock
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Hard Rock" group-title="Music (All Lang)",iHeart Classic Hard Rock
 https://stream.revma.ihrhls.com/zc10068/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Rock" group-title="ENG - Music Radio",iHeart Classic Rock
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Rock" group-title="Music (All Lang)",iHeart Classic Rock
 https://stream.revma.ihrhls.com/zc4426/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Soul" group-title="ENG - Music Radio",iHeart Classic Soul
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Soul" group-title="Music (All Lang)",iHeart Classic Soul
 https://stream.revma.ihrhls.com/zc7120/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Coffee Shop Radio" group-title="ENG - Music Radio",iHeart Coffee Shop Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Coffee Shop Radio" group-title="Music (All Lang)",iHeart Coffee Shop Radio
 https://stream.revma.ihrhls.com/zc6698/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cool Oldies (1970's-1980's)" group-title="ENG - Music Radio",iHeart Cool Oldies (1970's-1980's)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cool Oldies (1970's-1980's)" group-title="Music (All Lang)",iHeart Cool Oldies (1970's-1980's)
 https://stream.revma.ihrhls.com/zc4439/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country" group-title="ENG - Music Radio",iHeart Country
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country" group-title="Music (All Lang)",iHeart Country
 https://stream.revma.ihrhls.com/zc4418/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 1980's" group-title="ENG - Music Radio",iHeart Country 1980's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 1980's" group-title="Music (All Lang)",iHeart Country 1980's
 https://stream.revma.ihrhls.com/zc6836/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 1990's" group-title="ENG - Music Radio",iHeart Country 1990's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 1990's" group-title="Music (All Lang)",iHeart Country 1990's
 https://stream.revma.ihrhls.com/zc6870/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 2000's" group-title="ENG - Music Radio",iHeart Country 2000's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 2000's" group-title="Music (All Lang)",iHeart Country 2000's
 https://stream.revma.ihrhls.com/zc10027/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Classics" group-title="ENG - Music Radio",iHeart Country Classics
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Classics" group-title="Music (All Lang)",iHeart Country Classics
 https://stream.revma.ihrhls.com/zc4435/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Favorites" group-title="ENG - Music Radio",iHeart Country Favorites
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Favorites" group-title="Music (All Lang)",iHeart Country Favorites
 https://stream.revma.ihrhls.com/zc8625/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Love Songs" group-title="ENG - Music Radio",iHeart Country Love Songs
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Love Songs" group-title="Music (All Lang)",iHeart Country Love Songs
 https://stream.revma.ihrhls.com/zc7803/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Outlaws" group-title="ENG - Music Radio",iHeart Country Outlaws
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Outlaws" group-title="Music (All Lang)",iHeart Country Outlaws
 https://stream.revma.ihrhls.com/zc6851/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Top 20" group-title="ENG - Music Radio",iHeart Country Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Top 20" group-title="Music (All Lang)",iHeart Country Top 20
 https://stream.revma.ihrhls.com/zc4882/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Top 30" group-title="ENG - Music Radio",iHeart Country Top 30
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Top 30" group-title="Music (All Lang)",iHeart Country Top 30
 https://stream.revma.ihrhls.com/zc6760/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Crook & Chase Countdown" group-title="ENG - Music Radio",iHeart Crook & Chase Countdown
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Crook & Chase Countdown" group-title="Music (All Lang)",iHeart Crook & Chase Countdown
 https://stream.revma.ihrhls.com/zc6921/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cross Country" group-title="ENG - Music Radio",iHeart Cross Country
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cross Country" group-title="Music (All Lang)",iHeart Cross Country
 https://stream.revma.ihrhls.com/zc10164/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Dance Nation 1990's" group-title="ENG - Music Radio",iHeart Dance Nation 1990's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Dance Nation 1990's" group-title="Music (All Lang)",iHeart Dance Nation 1990's
 https://stream.revma.ihrhls.com/zc6946/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Dance Top 20" group-title="ENG - Music Radio",iHeart Dance Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Dance Top 20" group-title="Music (All Lang)",iHeart Dance Top 20
 https://stream.revma.ihrhls.com/zc9762/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Deep Cuts" group-title="ENG - Music Radio",iHeart Deep Cuts
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Deep Cuts" group-title="Music (All Lang)",iHeart Deep Cuts
 https://stream.revma.ihrhls.com/zc9652/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Delilah" group-title="ENG - Music Radio",iHeart Delilah
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Delilah" group-title="Music (All Lang)",iHeart Delilah
 https://stream.revma.ihrhls.com/zc4846/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Doo-Wop" group-title="ENG - Music Radio",iHeart Doo-Wop
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Doo-Wop" group-title="Music (All Lang)",iHeart Doo-Wop
 https://stream.revma.ihrhls.com/zc10058/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart El Patron" group-title="ENG - Music Radio",iHeart El Patron
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart El Patron" group-title="Music (All Lang)",iHeart El Patron
 https://stream.revma.ihrhls.com/zc7004/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Emo Nation" group-title="ENG - Music Radio",iHeart Emo Nation
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Emo Nation" group-title="Music (All Lang)",iHeart Emo Nation
 https://stream.revma.ihrhls.com/zc9380/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Enrique Santos Morning Show" group-title="ENG - Music Radio",iHeart Enrique Santos Morning Show
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Enrique Santos Morning Show" group-title="Music (All Lang)",iHeart Enrique Santos Morning Show
 https://stream.revma.ihrhls.com/zc7349/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Evolution" group-title="ENG - Music Radio",iHeart Evolution
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Evolution" group-title="Music (All Lang)",iHeart Evolution
 https://stream.revma.ihrhls.com/zc5953/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Fiesta Latina" group-title="ENG - Music Radio",iHeart Fiesta Latina
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Fiesta Latina" group-title="Music (All Lang)",iHeart Fiesta Latina
 https://stream.revma.ihrhls.com/zc7191/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Fly Nation (Classic Hip-Hop)" group-title="ENG - Music Radio",iHeart Fly Nation (Classic Hip-Hop)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Fly Nation (Classic Hip-Hop)" group-title="Music (All Lang)",iHeart Fly Nation (Classic Hip-Hop)
 https://stream.revma.ihrhls.com/zc6732/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Forever Disco" group-title="ENG - Music Radio",iHeart Forever Disco
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Forever Disco" group-title="Music (All Lang)",iHeart Forever Disco
 https://stream.revma.ihrhls.com/zc6755/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Freeform Radio" group-title="ENG - Music Radio",iHeart Freeform Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Freeform Radio" group-title="Music (All Lang)",iHeart Freeform Radio
 https://stream.revma.ihrhls.com/zc9719/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Freestyle" group-title="ENG - Music Radio",iHeart Freestyle
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Freestyle" group-title="Music (All Lang)",iHeart Freestyle
 https://stream.revma.ihrhls.com/zc7368/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Full Metal Jackie" group-title="ENG - Music Radio",iHeart Full Metal Jackie
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Full Metal Jackie" group-title="Music (All Lang)",iHeart Full Metal Jackie
 https://stream.revma.ihrhls.com/zc6225/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hip-Hop 2000's" group-title="ENG - Music Radio",iHeart Hip-Hop 2000's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hip-Hop 2000's" group-title="Music (All Lang)",iHeart Hip-Hop 2000's
 https://stream.revma.ihrhls.com/zc10170/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hip-Hop 50 Radio" group-title="ENG - Music Radio",iHeart Hip-Hop 50 Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hip-Hop 50 Radio" group-title="Music (All Lang)",iHeart Hip-Hop 50 Radio
 https://stream.revma.ihrhls.com/zc9717/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hip-Hop Top 20" group-title="ENG - Music Radio",iHeart Hip-Hop Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hip-Hop Top 20" group-title="Music (All Lang)",iHeart Hip-Hop Top 20
 https://stream.revma.ihrhls.com/zc4886/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hit Nation" group-title="ENG - Music Radio",iHeart Hit Nation
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hit Nation" group-title="Music (All Lang)",iHeart Hit Nation
 https://stream.revma.ihrhls.com/zc4422/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Indie Radio" group-title="ENG - Music Radio",iHeart Indie Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Indie Radio" group-title="Music (All Lang)",iHeart Indie Radio
 https://stream.revma.ihrhls.com/zc7189/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Jam Bands" group-title="ENG - Music Radio",iHeart Jam Bands
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Jam Bands" group-title="Music (All Lang)",iHeart Jam Bands
 https://stream.revma.ihrhls.com/zc7278/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Jazz Classics" group-title="ENG - Music Radio",iHeart Jazz Classics
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Jazz Classics" group-title="Music (All Lang)",iHeart Jazz Classics
 https://stream.revma.ihrhls.com/zc9918/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Jazz Top 20" group-title="ENG - Music Radio",iHeart Jazz Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Jazz Top 20" group-title="Music (All Lang)",iHeart Jazz Top 20
 https://stream.revma.ihrhls.com/zc9761/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart K-Pop Radio" group-title="ENG - Music Radio",iHeart K-Pop Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart K-Pop Radio" group-title="Music (All Lang)",iHeart K-Pop Radio
 https://stream.revma.ihrhls.com/zc9003/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Kiss Radio" group-title="ENG - Music Radio",iHeart Kiss Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Kiss Radio" group-title="Music (All Lang)",iHeart Kiss Radio
 https://stream.revma.ihrhls.com/zc7362/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart La Preciosa" group-title="ENG - Music Radio",iHeart La Preciosa
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart La Preciosa" group-title="Music (All Lang)",iHeart La Preciosa
 https://stream.revma.ihrhls.com/zc8624/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Latino Top 20" group-title="ENG - Music Radio",iHeart Latino Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Latino Top 20" group-title="Music (All Lang)",iHeart Latino Top 20
 https://stream.revma.ihrhls.com/zc9763/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Lite Rock" group-title="ENG - Music Radio",iHeart Lite Rock
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Lite Rock" group-title="Music (All Lang)",iHeart Lite Rock
 https://stream.revma.ihrhls.com/zc6830/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Lost 80's" group-title="ENG - Music Radio",iHeart Lost 80's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Lost 80's" group-title="Music (All Lang)",iHeart Lost 80's
 https://stream.revma.ihrhls.com/zc7934/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Love Songs Radio" group-title="ENG - Music Radio",iHeart Love Songs Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Love Songs Radio" group-title="Music (All Lang)",iHeart Love Songs Radio
 https://stream.revma.ihrhls.com/zc6790/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Magic (Musica en Ingles y Espanol)" group-title="ENG - Music Radio",iHeart Magic (Musica en Ingles y Espanol)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Magic (Musica en Ingles y Espanol)" group-title="Music (All Lang)",iHeart Magic (Musica en Ingles y Espanol)
 https://stream.revma.ihrhls.com/zc10085/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Mega" group-title="ENG - Music Radio",iHeart Mega
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Mega" group-title="Music (All Lang)",iHeart Mega
 https://stream.revma.ihrhls.com/zc10087/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Minivan Rock" group-title="ENG - Music Radio",iHeart Minivan Rock
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Minivan Rock" group-title="Music (All Lang)",iHeart Minivan Rock
 https://stream.revma.ihrhls.com/zc10055/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Mix Nation" group-title="ENG - Music Radio",iHeart Mix Nation
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Mix Nation" group-title="Music (All Lang)",iHeart Mix Nation
 https://stream.revma.ihrhls.com/zc4776/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Mix Rewind" group-title="ENG - Music Radio",iHeart Mix Rewind
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Mix Rewind" group-title="Music (All Lang)",iHeart Mix Rewind
 https://stream.revma.ihrhls.com/zc7361/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Motown Sounds" group-title="ENG - Music Radio",iHeart Motown Sounds
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Motown Sounds" group-title="Music (All Lang)",iHeart Motown Sounds
 https://stream.revma.ihrhls.com/zc7801/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart New Country" group-title="ENG - Music Radio",iHeart New Country
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart New Country" group-title="Music (All Lang)",iHeart New Country
 https://stream.revma.ihrhls.com/zc4712/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Nu Metal Radio" group-title="ENG - Music Radio",iHeart Nu Metal Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Nu Metal Radio" group-title="Music (All Lang)",iHeart Nu Metal Radio
 https://stream.revma.ihrhls.com/zc9483/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart One Hit Wonders" group-title="ENG - Music Radio",iHeart One Hit Wonders
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart One Hit Wonders" group-title="Music (All Lang)",iHeart One Hit Wonders
 https://stream.revma.ihrhls.com/zc6669/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Drive" group-title="ENG - Music Radio",iHeart Pop Drive
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Drive" group-title="Music (All Lang)",iHeart Pop Drive
 https://stream.revma.ihrhls.com/zc7403/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Rewind" group-title="ENG - Music Radio",iHeart Pop Rewind
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Rewind" group-title="Music (All Lang)",iHeart Pop Rewind
 https://stream.revma.ihrhls.com/zc9756/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Rocks" group-title="ENG - Music Radio",iHeart Pop Rocks
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Rocks" group-title="Music (All Lang)",iHeart Pop Rocks
 https://stream.revma.ihrhls.com/zc8842/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Top 20" group-title="ENG - Music Radio",iHeart Pop Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Top 20" group-title="Music (All Lang)",iHeart Pop Top 20
 https://stream.revma.ihrhls.com/zc4878/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Power" group-title="ENG - Music Radio",iHeart Power
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Power" group-title="Music (All Lang)",iHeart Power
 https://stream.revma.ihrhls.com/zc7360/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart PRIDE Radio" group-title="ENG - Music Radio",iHeart PRIDE Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart PRIDE Radio" group-title="Music (All Lang)",iHeart PRIDE Radio
 https://stream.revma.ihrhls.com/zc3949/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart PRIDE Radio Flashback" group-title="ENG - Music Radio",iHeart PRIDE Radio Flashback
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart PRIDE Radio Flashback" group-title="Music (All Lang)",iHeart PRIDE Radio Flashback
 https://stream.revma.ihrhls.com/zc7304/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Punk Tacos" group-title="ENG - Music Radio",iHeart Punk Tacos
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Punk Tacos" group-title="Music (All Lang)",iHeart Punk Tacos
 https://stream.revma.ihrhls.com/zc6954/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart R&B Jams" group-title="ENG - Music Radio",iHeart R&B Jams
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart R&B Jams" group-title="Music (All Lang)",iHeart R&B Jams
 https://stream.revma.ihrhls.com/zc4433/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart R&B Top 20" group-title="ENG - Music Radio",iHeart R&B Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart R&B Top 20" group-title="Music (All Lang)",iHeart R&B Top 20
 https://stream.revma.ihrhls.com/zc4940/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Radio Tejano" group-title="ENG - Music Radio",iHeart Radio Tejano
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Radio Tejano" group-title="Music (All Lang)",iHeart Radio Tejano
 https://stream.revma.ihrhls.com/zc9622/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rat Pack Radio" group-title="ENG - Music Radio",iHeart Rat Pack Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rat Pack Radio" group-title="Music (All Lang)",iHeart Rat Pack Radio
 https://stream.revma.ihrhls.com/zc6784/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Real Fun Beach Radio" group-title="ENG - Music Radio",iHeart Real Fun Beach Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Real Fun Beach Radio" group-title="Music (All Lang)",iHeart Real Fun Beach Radio
 https://stream.revma.ihrhls.com/zc6221/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Real Oldies (1960's-1970's)" group-title="ENG - Music Radio",iHeart Real Oldies (1960's-1970's)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Real Oldies (1960's-1970's)" group-title="Music (All Lang)",iHeart Real Oldies (1960's-1970's)
 https://stream.revma.ihrhls.com/zc4717/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Red Dirt Radio" group-title="ENG - Music Radio",iHeart Red Dirt Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Red Dirt Radio" group-title="Music (All Lang)",iHeart Red Dirt Radio
 https://stream.revma.ihrhls.com/zc6842/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Reggae" group-title="ENG - Music Radio",iHeart Reggae
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Reggae" group-title="Music (All Lang)",iHeart Reggae
 https://stream.revma.ihrhls.com/zc6788/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Reggaeton Old School" group-title="ENG - Music Radio",iHeart Reggaeton Old School
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Reggaeton Old School" group-title="Music (All Lang)",iHeart Reggaeton Old School
 https://stream.revma.ihrhls.com/zc7427/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Regional Mexican Top 20" group-title="ENG - Music Radio",iHeart Regional Mexican Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Regional Mexican Top 20" group-title="Music (All Lang)",iHeart Regional Mexican Top 20
 https://stream.revma.ihrhls.com/zc9911/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Retro En Español" group-title="ENG - Music Radio",iHeart Retro En Español
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Retro En Español" group-title="Music (All Lang)",iHeart Retro En Español
 https://stream.revma.ihrhls.com/zc10089/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rick Dees Top 40 (1980's-2000's)" group-title="ENG - Music Radio",iHeart Rick Dees Top 40 (1980's-2000's)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rick Dees Top 40 (1980's-2000's)" group-title="Music (All Lang)",iHeart Rick Dees Top 40 (1980's-2000's)
 https://stream.revma.ihrhls.com/zc10600/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rick Dees Weekly Top 40" group-title="ENG - Music Radio",iHeart Rick Dees Weekly Top 40
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rick Dees Weekly Top 40" group-title="Music (All Lang)",iHeart Rick Dees Weekly Top 40
 https://stream.revma.ihrhls.com/zc10599/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rock Drive" group-title="ENG - Music Radio",iHeart Rock Drive
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rock Drive" group-title="Music (All Lang)",iHeart Rock Drive
 https://stream.revma.ihrhls.com/zc7402/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rock Nation" group-title="ENG - Music Radio",iHeart Rock Nation
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rock Nation" group-title="Music (All Lang)",iHeart Rock Nation
 https://stream.revma.ihrhls.com/zc4443/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rock Top 20" group-title="ENG - Music Radio",iHeart Rock Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rock Top 20" group-title="Music (All Lang)",iHeart Rock Top 20
 https://stream.revma.ihrhls.com/zc4932/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rumba" group-title="ENG - Music Radio",iHeart Rumba
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rumba" group-title="Music (All Lang)",iHeart Rumba
 https://stream.revma.ihrhls.com/zc4451/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Salsa" group-title="ENG - Music Radio",iHeart Salsa
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Salsa" group-title="Music (All Lang)",iHeart Salsa
 https://stream.revma.ihrhls.com/zc7192/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Slippery When Wet" group-title="ENG - Music Radio",iHeart Slippery When Wet
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Slippery When Wet" group-title="Music (All Lang)",iHeart Slippery When Wet
 https://stream.revma.ihrhls.com/zc4858/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Smells Like the 1990's" group-title="ENG - Music Radio",iHeart Smells Like the 1990's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Smells Like the 1990's" group-title="Music (All Lang)",iHeart Smells Like the 1990's
 https://stream.revma.ihrhls.com/zc6437/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Smooth Jazz" group-title="ENG - Music Radio",iHeart Smooth Jazz
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Smooth Jazz" group-title="Music (All Lang)",iHeart Smooth Jazz
 https://stream.revma.ihrhls.com/zc4242/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Soft Rock" group-title="ENG - Music Radio",iHeart Soft Rock
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Soft Rock" group-title="Music (All Lang)",iHeart Soft Rock
 https://stream.revma.ihrhls.com/zc4414/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Southern Rock Ride" group-title="ENG - Music Radio",iHeart Southern Rock Ride
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Southern Rock Ride" group-title="Music (All Lang)",iHeart Southern Rock Ride
 https://stream.revma.ihrhls.com/zc10053/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Sunny Radio" group-title="ENG - Music Radio",iHeart Sunny Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Sunny Radio" group-title="Music (All Lang)",iHeart Sunny Radio
 https://stream.revma.ihrhls.com/zc5014/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Sweat Hotel with Keith Sweat" group-title="ENG - Music Radio",iHeart Sweat Hotel with Keith Sweat
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Sweat Hotel with Keith Sweat" group-title="Music (All Lang)",iHeart Sweat Hotel with Keith Sweat
 https://stream.revma.ihrhls.com/zc6529/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Beatles Now And Then" group-title="ENG - Music Radio",iHeart The Beatles Now And Then
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Beatles Now And Then" group-title="Music (All Lang)",iHeart The Beatles Now And Then
 https://stream.revma.ihrhls.com/zc10023/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Breeze" group-title="ENG - Music Radio",iHeart The Breeze
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Breeze" group-title="Music (All Lang)",iHeart The Breeze
 https://stream.revma.ihrhls.com/zc8143/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Brew" group-title="ENG - Music Radio",iHeart The Brew
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Brew" group-title="Music (All Lang)",iHeart The Brew
 https://stream.revma.ihrhls.com/zc8626/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Countdown" group-title="ENG - Music Radio",iHeart The Countdown
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Countdown" group-title="Music (All Lang)",iHeart The Countdown
 https://stream.revma.ihrhls.com/zc6455/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Vinyl Experience" group-title="ENG - Music Radio",iHeart The Vinyl Experience
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Vinyl Experience" group-title="Music (All Lang)",iHeart The Vinyl Experience
 https://stream.revma.ihrhls.com/zc6878/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Throwbacks (Classic Hip-Hop & R&B)" group-title="ENG - Music Radio",iHeart Throwbacks (Classic Hip-Hop & R&B)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Throwbacks (Classic Hip-Hop & R&B)" group-title="Music (All Lang)",iHeart Throwbacks (Classic Hip-Hop & R&B)
 https://stream.revma.ihrhls.com/zc7397/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Today's Mix" group-title="ENG - Music Radio",iHeart Today's Mix
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Today's Mix" group-title="Music (All Lang)",iHeart Today's Mix
 https://stream.revma.ihrhls.com/zc4409/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trancid" group-title="ENG - Music Radio",iHeart Trancid
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trancid" group-title="Music (All Lang)",iHeart Trancid
 https://stream.revma.ihrhls.com/zc5144/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trending Country Top 20" group-title="ENG - Music Radio",iHeart Trending Country Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trending Country Top 20" group-title="Music (All Lang)",iHeart Trending Country Top 20
 https://stream.revma.ihrhls.com/zc10485/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trending Hip-Hop Top 20" group-title="ENG - Music Radio",iHeart Trending Hip-Hop Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trending Hip-Hop Top 20" group-title="Music (All Lang)",iHeart Trending Hip-Hop Top 20
 https://stream.revma.ihrhls.com/zc10484/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trending Pop Top 20" group-title="ENG - Music Radio",iHeart Trending Pop Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trending Pop Top 20" group-title="Music (All Lang)",iHeart Trending Pop Top 20
 https://stream.revma.ihrhls.com/zc10479/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Tropical Top 20" group-title="ENG - Music Radio",iHeart Tropical Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Tropical Top 20" group-title="Music (All Lang)",iHeart Tropical Top 20
 https://stream.revma.ihrhls.com/zc9912/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Vinyl Classic Rock" group-title="ENG - Music Radio",iHeart Vinyl Classic Rock
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Vinyl Classic Rock" group-title="Music (All Lang)",iHeart Vinyl Classic Rock
 https://stream.revma.ihrhls.com/zc7078/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Vinyl Jazz" group-title="ENG - Music Radio",iHeart Vinyl Jazz
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Vinyl Jazz" group-title="Music (All Lang)",iHeart Vinyl Jazz
 https://stream.revma.ihrhls.com/zc7079/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart WiLD" group-title="ENG - Music Radio",iHeart WiLD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart WiLD" group-title="Music (All Lang)",iHeart WiLD
 https://stream.revma.ihrhls.com/zc4722/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Women of iHeartCountry" group-title="ENG - Music Radio",iHeart Women of iHeartCountry
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Women of iHeartCountry" group-title="Music (All Lang)",iHeart Women of iHeartCountry
 https://stream.revma.ihrhls.com/zc7367/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Yacht Rock Radio" group-title="ENG - Music Radio",iHeart Yacht Rock Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Yacht Rock Radio" group-title="Music (All Lang)",iHeart Yacht Rock Radio
 https://stream.revma.ihrhls.com/zc8681/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Yee Yee Radio" group-title="ENG - Music Radio",iHeart Yee Yee Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Yee Yee Radio" group-title="Music (All Lang)",iHeart Yee Yee Radio
 https://stream.revma.ihrhls.com/zc10082/hls.m3u8
 
 
@@ -314,440 +314,446 @@ https://stream.revma.ihrhls.com/zc10082/hls.m3u8
 #PLAYLIST:x 5tvpro-music
 #EXTGRP:x 5tvpro-music
 
-#GROUP:ENG - Music Radio
-#EXTINF:-1 tvg-name="TV 538 Jacked Radio FHD" group-title="ENG - Music Radio",TV 538 Jacked Radio FHD
+#GROUP:Music (All Lang)
+#EXTINF:-1 tvg-name="TV 538 Jacked Radio FHD" group-title="Music (All Lang)",TV 538 Jacked Radio FHD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1283075&extension=ts&play_token=PYWJ4f92XM
-#EXTINF:-1 tvg-name="Fix Radio - Slow Jams" group-title="ENG - Music Radio",Fix Radio - Slow Jams
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366207&extension=ts&play_token=zweDSwsZbH
-#EXTINF:-1 tvg-name="Fix Radio Reggae Mix 2023" group-title="ENG - Music Radio",Fix Radio Reggae Mix 2023
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366206&extension=ts&play_token=Xd8XWY6G1W
-#EXTINF:-1 tvg-name="Fix Radio Reggae Concerts" group-title="ENG - Music Radio",Fix Radio Reggae Concerts
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366205&extension=ts&play_token=IAgaLjeXtC
-#EXTINF:-1 tvg-name="Fix Radio Moombahton" group-title="ENG - Music Radio",Fix Radio Moombahton
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366204&extension=ts&play_token=kXwXPPpfJz
-#EXTINF:-1 tvg-name="Fix Radio Hip-Hop Urban" group-title="ENG - Music Radio",Fix Radio Hip-Hop Urban
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366201&extension=ts&play_token=O67QIgU6Y7
-#EXTINF:-1 tvg-name="Fix Radio Dutch Urban Reggaeton" group-title="ENG - Music Radio",Fix Radio Dutch Urban Reggaeton
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366200&extension=ts&play_token=iJTUdkjzId
-#EXTINF:-1 tvg-name="Fix Radio Dutch Rap" group-title="ENG - Music Radio",Fix Radio Dutch Rap
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366199&extension=ts&play_token=dVynR38hQ4
-#EXTINF:-1 tvg-name="RADIO 538" group-title="ENG - Music Radio",RADIO 538
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023219&extension=ts&play_token=tFQSQ9J1cz
-#EXTINF:-1 tvg-name="QMUSIC Radio" group-title="ENG - Music Radio",QMUSIC Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023218&extension=ts&play_token=8HpZxps7Ji
-#EXTINF:-1 tvg-name="3FM" group-title="ENG - Music Radio",3FM
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023217&extension=ts&play_token=BHsEjKXLQR
-#EXTINF:-1 tvg-name="Radio Veronica" group-title="ENG - Music Radio",Radio Veronica
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023216&extension=ts&play_token=InluL0z4bB
-#EXTINF:-1 tvg-name="SLAM! Juize NL Radio" group-title="ENG - Music Radio",SLAM! Juize NL Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023215&extension=ts&play_token=ozyfsk3YCg
-#EXTINF:-1 tvg-name="Radio 10" group-title="ENG - Music Radio",Radio 10
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023214&extension=ts&play_token=QrcSPrjqBl
-#EXTINF:-1 tvg-name="SLAM! NL Radio" group-title="ENG - Music Radio",SLAM! NL Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023212&extension=ts&play_token=UiOCeDRMi6
-#EXTINF:-1 tvg-name="SKY RADIO 101 FM" group-title="ENG - Music Radio",SKY RADIO 101 FM
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023211&extension=ts&play_token=830bMyfruQ
-#EXTINF:-1 tvg-name="FUNX Radio" group-title="ENG - Music Radio",FUNX Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023209&extension=ts&play_token=vGoO1pCHv1
-#EXTINF:-1 tvg-name="RGR FM Classic Hits" group-title="ENG - Music Radio",RGR FM Classic Hits
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023208&extension=ts&play_token=omomStdh8r
-#EXTINF:-1 tvg-name="LAYZER Radio" group-title="ENG - Music Radio",LAYZER Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023207&extension=ts&play_token=BDPJje1TrL
-#EXTINF:-1 tvg-name="HARDCORERADIO" group-title="ENG - Music Radio",HARDCORERADIO
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023205&extension=ts&play_token=VKDPtPPi7L
-#EXTINF:-1 tvg-name="Nashville FM" group-title="ENG - Music Radio",Nashville FM
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023196&extension=ts&play_token=8W9iMnK3lf
-#EXTINF:-1 tvg-name="Music & More Radio" group-title="ENG - Music Radio",Music & More Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023191&extension=ts&play_token=y7lhebXGdI
-#EXTINF:-1 tvg-name="QMUSIC BELGIË Radio" group-title="ENG - Music Radio",QMUSIC BELGIË Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023186&extension=ts&play_token=f3uCiqdOZe
-#EXTINF:-1 tvg-name="MIXX FM" group-title="ENG - Music Radio",MIXX FM
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023176&extension=ts&play_token=tqiD2iUzLD
-#EXTINF:-1 tvg-name="DEEP RADIO" group-title="ENG - Music Radio",DEEP RADIO
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023175&extension=ts&play_token=kbfpndCOuC
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="538 PARTY" group-title="ENG - Music Radio",538 PARTY
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023169&extension=ts&play_token=smuS0WaMxX
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="538 DANCE DEPARTMENT" group-title="ENG - Music Radio",538 DANCE DEPARTMENT
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023168&extension=ts&play_token=ATL8rmpggE
-#EXTINF:-1 tvg-name="Radio 10 60's & 70's" group-title="ENG - Music Radio",Radio 10 60's & 70's
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023167&extension=ts&play_token=HnlMefLuPE
-#EXTINF:-1 tvg-name="Radio 10 80's" group-title="ENG - Music Radio",Radio 10 80's
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023166&extension=ts&play_token=zJRIvhZbIT
-#EXTINF:-1 tvg-name="Radio 10 90's" group-title="ENG - Music Radio",Radio 10 90's
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023165&extension=ts&play_token=6MKWsIohiv
-#EXTINF:-1 tvg-name="FALCON RADIO" group-title="ENG - Music Radio",FALCON RADIO
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023164&extension=ts&play_token=FWE3kPY3SU
-#EXTINF:-1 tvg-name="REAL Hardstyle Radio" group-title="ENG - Music Radio",REAL Hardstyle Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023162&extension=ts&play_token=mZcVAOP5G2
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="FACTORY STATION" group-title="ENG - Music Radio",FACTORY STATION
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023161&extension=ts&play_token=d4AOtOUXKE
-#EXTINF:-1 tvg-name="SKY RADIO Love Songs" group-title="ENG - Music Radio",SKY RADIO Love Songs
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023159&extension=ts&play_token=1WFjAxJ1Ha
-#EXTINF:-1 tvg-name="Radio 10 Disco Classics" group-title="ENG - Music Radio",Radio 10 Disco Classics
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023155&extension=ts&play_token=9oRRecgrnL
-#EXTINF:-1 tvg-name="SOUL Radio NL" group-title="ENG - Music Radio",SOUL Radio NL
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023154&extension=ts&play_token=UDrl9nFBGq
-#EXTINF:-1 tvg-name="NL| SKY RADIO Hits l" group-title="ENG - Music Radio",SKY RADIO Hits
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023138&extension=ts&play_token=rGEje3BzYm
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="538 HITZONE" group-title="ENG - Music Radio",538 HITZONE
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023136&extension=ts&play_token=FtnWnLPOhT
-#EXTINF:-1 tvg-name="Radio Monique" group-title="ENG - Music Radio",Radio Monique
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023132&extension=ts&play_token=Fw91UN4LBC
-#EXTINF:-1 tvg-name="HARDCORE POWER RADIO" group-title="ENG - Music Radio",HARDCORE POWER RADIO
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023130&extension=ts&play_token=c77XNsRj0U
-#EXTINF:-1 tvg-name="RADIO EXTRA GOLD NL" group-title="ENG - Music Radio",RADIO EXTRA GOLD NL
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023128&extension=ts&play_token=dIRnm2DaIv
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Amsterdam Funk Channel" group-title="ENG - Music Radio",Amsterdam Funk Channel
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023121&extension=ts&play_token=vKj79n2AS7
-#EXTINF:-1 tvg-name="GRANDPRIX RADIO" group-title="ENG - Music Radio",GRANDPRIX RADIO
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023117&extension=ts&play_token=G1K49pJy5m
-#EXTINF:-1 tvg-name="538 IBIZA RADIO" group-title="ENG - Music Radio",538 IBIZA RADIO
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023110&extension=ts&play_token=16KHpAs5jh
-#EXTINF:-1 tvg-name="SLAM! Hardstyle NL Radio" group-title="ENG - Music Radio",SLAM! Hardstyle NL Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023109&extension=ts&play_token=wcyFbcEIFZ
-#EXTINF:-1 tvg-name="INDIEXL Radio l" group-title="ENG - Music Radio",INDIEXL Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023106&extension=ts&play_token=q1355LxWj0
-#EXTINF:-1 tvg-name="SKY RADIO Lounge" group-title="ENG - Music Radio",SKY RADIO Lounge
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023099&extension=ts&play_token=SAGd8kdrQj
-#EXTINF:-1 tvg-name="SKY RADIO 90s" group-title="ENG - Music Radio",SKY RADIO 90s
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023098&extension=ts&play_token=iyQrHQVO8q
-#EXTINF:-1 tvg-name="Disco Classic Radio" group-title="ENG - Music Radio",Disco Classic Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023096&extension=ts&play_token=R5XtLougK8
-#EXTINF:-1 tvg-name="Radio 10 Love Songs" group-title="ENG - Music Radio",Radio 10 Love Songs
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023094&extension=ts&play_token=P3QgC5nGWq
-#EXTINF:-1 tvg-name="SOULSHOW Radio NL" group-title="ENG - Music Radio",SOULSHOW Radio NL
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023093&extension=ts&play_token=abqoUxWoDg
-#EXTINF:-1 tvg-name="QMUSIC Non-Stop Radio" group-title="ENG - Music Radio",QMUSIC Non-Stop Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023092&extension=ts&play_token=GgzF0eIBZV
-#EXTINF:-1 tvg-name="SKY RADIO 80's" group-title="ENG - Music Radio",SKY RADIO 80's
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023091&extension=ts&play_token=MiTCbcIujm
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="JAZZ DE VILLE - Chill" group-title="ENG - Music Radio",JAZZ DE VILLE - Chill
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023087&extension=ts&play_token=l7QX3jJqQl
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="538 NONSTOP" group-title="ENG - Music Radio",538 NONSTOP
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023084&extension=ts&play_token=ojPAobJUVQ
-#EXTINF:-1 tvg-name="Intense Radio" group-title="ENG - Music Radio",Intense Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023083&extension=ts&play_token=0BvM4V3DIN
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SLAM! Non-stop NL" group-title="ENG - Music Radio",SLAM! Non-stop NL
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023067&extension=ts&play_token=Py5OyWn4xV
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="The Boom Room NL" group-title="ENG - Music Radio",The Boom Room NL
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023066&extension=ts&play_token=kGh8D58e6S
-#EXTINF:-1 tvg-name="RADIO JND" group-title="ENG - Music Radio",RADIO JND
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023065&extension=ts&play_token=gvViFRvhOY
-#EXTINF:-1 tvg-name="Rebecca Radio" group-title="ENG - Music Radio",Rebecca Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023061&extension=ts&play_token=eBaskUME9S
-#EXTINF:-1 tvg-name="Radio 10 Non-Stop" group-title="ENG - Music Radio",Radio 10 Non-Stop
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023060&extension=ts&play_token=e0bmYFZzPf
-#EXTINF:-1 tvg-name="RADIO 509" group-title="ENG - Music Radio",RADIO 509
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023059&extension=ts&play_token=Psa2hOUeD6
-#EXTINF:-1 tvg-name="SKY RADIO SMOOTH HITS" group-title="ENG - Music Radio",SKY RADIO SMOOTH HITS
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023058&extension=ts&play_token=bWaG09MBNG
-#EXTINF:-1 tvg-name="SKY RADIO Running Hits Stretch & Relax" group-title="ENG - Music Radio",SKY RADIO Running Hits Stretch & Relax
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023057&extension=ts&play_token=68oAIMEf3n
-#EXTINF:-1 tvg-name="Radio Veronica Non-Stop" group-title="ENG - Music Radio",Radio Veronica Non-Stop
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023056&extension=ts&play_token=66B0mL8qC4
-#EXTINF:-1 tvg-name="Radio 10 Top 4000" group-title="ENG - Music Radio",Radio 10 Top 4000
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023055&extension=ts&play_token=jED37qmPZH
-#EXTINF:-1 tvg-name="SLAM! 40 NL Radio" group-title="ENG - Music Radio",SLAM! 40 NL Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023052&extension=ts&play_token=ixq1euOnkx
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SLAM! Mixmarathon NL" group-title="ENG - Music Radio",SLAM! Mixmarathon NL
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023051&extension=ts&play_token=mhqv9Yvnwj
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="JAZZ DE VILLE - Dance" group-title="ENG - Music Radio",JAZZ DE VILLE - Dance
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023049&extension=ts&play_token=FGPR4yPxQ7
-#EXTINF:-1 tvg-name="A.D.M. HARDSTYLE RADIO" group-title="ENG - Music Radio",A.D.M. HARDSTYLE RADIO
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023047&extension=ts&play_token=Rxnb2exNW5
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SUBLIME Jazz NL" group-title="ENG - Music Radio",SUBLIME Jazz NL
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023038&extension=ts&play_token=qnZQYzcIH2
-#EXTINF:-1 tvg-name="RGR FM Non-Stop Rhythm & Dance" group-title="ENG - Music Radio",RGR FM Non-Stop Rhythm & Dance
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023036&extension=ts&play_token=Mzq8bewBNB
-#EXTINF:-1 tvg-name="4EVER RADIO" group-title="ENG - Music Radio",4EVER RADIO
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023025&extension=ts&play_token=GWgWtjhIVy
-#EXTINF:-1 tvg-name="Hitstream FM" group-title="ENG - Music Radio",Hitstream FM
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023023&extension=ts&play_token=9LGY5EO4Vo
-#EXTINF:-1 tvg-name="New Dance Radio (Explicit)" group-title="ENG - Music Radio",New Dance Radio (Explicit)
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023020&extension=ts&play_token=QJPHK6AtTq
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="JOE Greatest Hits" group-title="ENG - Music Radio",JOE Greatest Hits
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023006&extension=ts&play_token=R2M0ICAc5O
-#EXTINF:-1 tvg-name="Only 80's Radio" group-title="ENG - Music Radio",Only 80's Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023004&extension=ts&play_token=U98KpgQngz
-#EXTINF:-1 tvg-name="40ROCK RADIO" group-title="ENG - Music Radio",40ROCK RADIO
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023003&extension=ts&play_token=ZCUXfpFTI8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SUBLIME Funk & Disco NL" group-title="ENG - Music Radio",SUBLIME Funk & Disco NL
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023000&extension=ts&play_token=5UzF3QTFBo
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="JND Classics" group-title="ENG - Music Radio",JND Classics
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022995&extension=ts&play_token=ziGSlP9iKH
-#EXTINF:-1 tvg-name="In Tha House Radio" group-title="ENG - Music Radio",In Tha House Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022993&extension=ts&play_token=wv2oHwmltf
-#EXTINF:-1 tvg-name="4EVER49 RADIO" group-title="ENG - Music Radio",4EVER49 RADIO
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022990&extension=ts&play_token=6BMIEDocNn
-#EXTINF:-1 tvg-name="DANCEVIBES RADIO" group-title="ENG - Music Radio",DANCEVIBES RADIO
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022980&extension=ts&play_token=WikyhrWG02
-#EXTINF:-1 tvg-name="KINK Classics 101.9 FM" group-title="ENG - Music Radio",KINK Classics 101.9 FM
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022974&extension=ts&play_token=5wqRHX6ATP
-#EXTINF:-1 tvg-name="KINK Distortion Radio" group-title="ENG - Music Radio",KINK Distortion Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022973&extension=ts&play_token=wcvmQXyfoU
-#EXTINF:-1 tvg-name="DEEP DANCE RADIO" group-title="ENG - Music Radio",DEEP DANCE RADIO
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022967&extension=ts&play_token=9nZE1nnBjX
-#EXTINF:-1 tvg-name="Radio Relax FM" group-title="ENG - Music Radio",Radio Relax FM
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022966&extension=ts&play_token=aIJalZ7L5S
-#EXTINF:-1 tvg-name="ELISA FM" group-title="ENG - Music Radio",ELISA FM
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022957&extension=ts&play_token=ZxbEqBDpCK
-#EXTINF:-1 tvg-name="HAPPY.RADIO" group-title="ENG - Music Radio",HAPPY.RADIO
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022956&extension=ts&play_token=tozlGJp9Xn
-#EXTINF:-1 tvg-name="JOUW 90s Radio" group-title="ENG - Music Radio",JOUW 90s Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022952&extension=ts&play_token=59PnIkPb5D
-#EXTINF:-1 tvg-name="AXL RADIO" group-title="ENG - Music Radio",AXL RADIO
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022951&extension=ts&play_token=9Fq2JBjVJ8
-#EXTINF:-1 tvg-name="FREAK RADIO" group-title="ENG - Music Radio",FREAK RADIO
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022948&extension=ts&play_token=CxfodbUZCw
-#EXTINF:-1 tvg-name="Powersound Radio" group-title="ENG - Music Radio",Powersound Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022940&extension=ts&play_token=FftaWqRdnC
-#EXTINF:-1 tvg-name="Radio Seabreeze" group-title="ENG - Music Radio",Radio Seabreeze
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022926&extension=ts&play_token=GaHNWuBYiA
-#EXTINF:-1 tvg-name="PURE Twenty Four Radio" group-title="ENG - Music Radio",PURE Twenty Four Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022925&extension=ts&play_token=m1vJotLyqk
-#EXTINF:-1 tvg-name="ALL-IN RADIO" group-title="ENG - Music Radio",ALL-IN RADIO
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022923&extension=ts&play_token=MlkpPf6YFi
-#EXTINF:-1 tvg-name="Radio Star Amsterdam" group-title="ENG - Music Radio",Radio Star Amsterdam
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022921&extension=ts&play_token=hgJ1mNWf5m
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Classic Hits 106 NL" group-title="ENG - Music Radio",Classic Hits 106 NL
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022914&extension=ts&play_token=EEEidzeHbN
-#EXTINF:-1 tvg-name="Music Beatsz Radio" group-title="ENG - Music Radio",Music Beatsz Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022906&extension=ts&play_token=38J9iaDh0E
-#EXTINF:-1 tvg-name="TRANCE 21 NL Radio" group-title="ENG - Music Radio",TRANCE 21 NL Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022905&extension=ts&play_token=rDF6ATAQAf
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="ALL TIME HITS" group-title="ENG - Music Radio",ALL TIME HITS
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022903&extension=ts&play_token=0O5uAe3pBC
-#EXTINF:-1 tvg-name="MixPerfect Radio" group-title="ENG - Music Radio",MixPerfect Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022897&extension=ts&play_token=nyqDNTk0AZ
-#EXTINF:-1 tvg-id="VevoCountry.pluto" tvg-name="VEVO Country Radio" group-title="ENG - Music Radio",VEVO Country Radio
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=886259&extension=ts&play_token=HSkBu0UuMf
-
-#GROUP:ENG - Music Videos
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SLAM FHD" group-title="ENG - Music Videos",SLAM FHD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SLAM FHD" group-title="Music (All Lang)",SLAM FHD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1283072&extension=ts&play_token=hbSyhJtzL8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Dance Television FHD" group-title="ENG - Music Videos",Dance Television FHD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Dance Television FHD" group-title="Music (All Lang)",Dance Television FHD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1283071&extension=ts&play_token=ScdhxMzVsb
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="XITE All Night Hits x Classics HD" group-title="ENG - Music Videos",XITE All Night Hits x Classics HD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="XITE All Night Hits x Classics HD" group-title="Music (All Lang)",XITE All Night Hits x Classics HD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1283070&extension=ts&play_token=IxpahodgCC
-#EXTINF:-1 tvg-id="StingrayDJAZZ.nl" tvg-name="Stingray DJAZZ HD" group-title="ENG - Music Videos",Stingray DJAZZ HD
+#EXTINF:-1 tvg-id="StingrayDJAZZ.nl" tvg-name="Stingray DJAZZ HD" group-title="Music (All Lang)",Stingray DJAZZ HD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1283063&extension=ts&play_token=kicQLjQuZ1
-#EXTINF:-1 tvg-id="StingrayClassica.nl" tvg-name="Stingray Classica TV" group-title="ENG - Music Videos",Stingray Classica TV
+#EXTINF:-1 tvg-id="StingrayClassica.nl" tvg-name="Stingray Classica TV" group-title="Music (All Lang)",Stingray Classica TV
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1283062&extension=ts&play_token=wdhPHkOjoU
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Spinnin' TV" group-title="ENG - Music Videos",Spinnin' TV
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Spinnin' TV" group-title="Music (All Lang)",Spinnin' TV
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366210&extension=ts&play_token=OFoDhFbztA
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="NAPSTER DANCE MUSIC" group-title="ENG - Music Videos",NAPSTER DANCE MUSIC
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="NAPSTER DANCE MUSIC" group-title="Music (All Lang)",NAPSTER DANCE MUSIC
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366211&extension=ts&play_token=KLXcQksYjR
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SPOTIFY - STUDYING MUSIC" group-title="ENG - Music Videos",SPOTIFY - STUDYING MUSIC
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SPOTIFY - STUDYING MUSIC" group-title="Music (All Lang)",SPOTIFY - STUDYING MUSIC
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366218&extension=ts&play_token=tolgmuGSGs
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SPOTIFY - ROMANTIC" group-title="ENG - Music Videos",SPOTIFY - ROMANTIC
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SPOTIFY - ROMANTIC" group-title="Music (All Lang)",SPOTIFY - ROMANTIC
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366217&extension=ts&play_token=UPaXivvN1I
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SPOTIFY - REGGAETON REWIND" group-title="ENG - Music Videos",SPOTIFY - REGGAETON REWIND
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SPOTIFY - REGGAETON REWIND" group-title="Music (All Lang)",SPOTIFY - REGGAETON REWIND
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366216&extension=ts&play_token=R6Vt2Fl5i8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SPOTIFY - POP" group-title="ENG - Music Videos",SPOTIFY - POP
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SPOTIFY - POP" group-title="Music (All Lang)",SPOTIFY - POP
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366215&extension=ts&play_token=kj9HGWOCdA
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SPOTIFY - MOOD BOOSTER" group-title="ENG - Music Videos",SPOTIFY - MOOD BOOSTER
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SPOTIFY - MOOD BOOSTER" group-title="Music (All Lang)",SPOTIFY - MOOD BOOSTER
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366214&extension=ts&play_token=lSgvrrKVFD
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SPOTIFY - GOSPEL MUSIC" group-title="ENG - Music Videos",SPOTIFY - GOSPEL MUSIC
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SPOTIFY - GOSPEL MUSIC" group-title="Music (All Lang)",SPOTIFY - GOSPEL MUSIC
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366213&extension=ts&play_token=GuqScacovR
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SPOTIFY - BEST 2023" group-title="ENG - Music Videos",SPOTIFY - BEST 2023
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SPOTIFY - BEST 2023" group-title="Music (All Lang)",SPOTIFY - BEST 2023
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366212&extension=ts&play_token=bFsfC2Zlul
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Apple Music Reggaeton" group-title="ENG - Music Videos",Apple Music Reggaeton
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Apple Music Reggaeton" group-title="Music (All Lang)",Apple Music Reggaeton
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366196&extension=ts&play_token=cdsNAxjjOC
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Apple Music Reggae" group-title="ENG - Music Videos",Apple Music Reggae
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Apple Music Reggae" group-title="Music (All Lang)",Apple Music Reggae
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366195&extension=ts&play_token=rBQp14IRgJ
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Apple Music Pop" group-title="ENG - Music Videos",Apple Music Pop
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Apple Music Pop" group-title="Music (All Lang)",Apple Music Pop
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366194&extension=ts&play_token=D642RgKF7N
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Apple Music" group-title="ENG - Music Videos",Apple Music
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Apple Music" group-title="Music (All Lang)",Apple Music
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366193&extension=ts&play_token=TRd7PQ5WMq
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="XITE All Night Hits x Classics FHD" group-title="ENG - Music Videos",XITE All Night Hits x Classics FHD
+#EXTINF:-1 tvg-name="Fix Radio - Slow Jams" group-title="Music (All Lang)",Fix Radio - Slow Jams
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366207&extension=ts&play_token=zweDSwsZbH
+#EXTINF:-1 tvg-name="Fix Radio Reggae Mix 2023" group-title="Music (All Lang)",Fix Radio Reggae Mix 2023
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366206&extension=ts&play_token=Xd8XWY6G1W
+#EXTINF:-1 tvg-name="Fix Radio Reggae Concerts" group-title="Music (All Lang)",Fix Radio Reggae Concerts
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366205&extension=ts&play_token=IAgaLjeXtC
+#EXTINF:-1 tvg-name="Fix Radio Moombahton" group-title="Music (All Lang)",Fix Radio Moombahton
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366204&extension=ts&play_token=kXwXPPpfJz
+#EXTINF:-1 tvg-name="Fix Radio Hip-Hop Urban" group-title="Music (All Lang)",Fix Radio Hip-Hop Urban
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366201&extension=ts&play_token=O67QIgU6Y7
+#EXTINF:-1 tvg-name="Fix Radio Dutch Urban Reggaeton" group-title="Music (All Lang)",Fix Radio Dutch Urban Reggaeton
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366200&extension=ts&play_token=iJTUdkjzId
+#EXTINF:-1 tvg-name="Fix Radio Dutch Rap" group-title="Music (All Lang)",Fix Radio Dutch Rap
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1366199&extension=ts&play_token=dVynR38hQ4
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="XITE All Night Hits x Classics FHD" group-title="Music (All Lang)",XITE All Night Hits x Classics FHD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1283059&extension=ts&play_token=R3fpfvtsxJ
-#EXTINF:-1 tvg-id="StingrayNow4k.ca" tvg-name="Stingray Now 4K" group-title="ENG - Music Videos",Stingray Now 4K
+#EXTINF:-1 tvg-name="RADIO 538" group-title="Music (All Lang)",RADIO 538
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023219&extension=ts&play_token=tFQSQ9J1cz
+#EXTINF:-1 tvg-name="QMUSIC Radio" group-title="Music (All Lang)",QMUSIC Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023218&extension=ts&play_token=8HpZxps7Ji
+#EXTINF:-1 tvg-name="3FM" group-title="Music (All Lang)",3FM
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023217&extension=ts&play_token=BHsEjKXLQR
+#EXTINF:-1 tvg-name="Radio Veronica" group-title="Music (All Lang)",Radio Veronica
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023216&extension=ts&play_token=InluL0z4bB
+#EXTINF:-1 tvg-name="SLAM! Juize NL Radio" group-title="Music (All Lang)",SLAM! Juize NL Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023215&extension=ts&play_token=ozyfsk3YCg
+#EXTINF:-1 tvg-name="Radio 10" group-title="Music (All Lang)",Radio 10
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023214&extension=ts&play_token=QrcSPrjqBl
+#EXTINF:-1 tvg-name="SLAM! NL Radio" group-title="Music (All Lang)",SLAM! NL Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023212&extension=ts&play_token=UiOCeDRMi6
+#EXTINF:-1 tvg-name="SKY RADIO 101 FM" group-title="Music (All Lang)",SKY RADIO 101 FM
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023211&extension=ts&play_token=830bMyfruQ
+#EXTINF:-1 tvg-name="FUNX Radio" group-title="Music (All Lang)",FUNX Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023209&extension=ts&play_token=vGoO1pCHv1
+#EXTINF:-1 tvg-name="RGR FM Classic Hits" group-title="Music (All Lang)",RGR FM Classic Hits
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023208&extension=ts&play_token=omomStdh8r
+#EXTINF:-1 tvg-name="LAYZER Radio" group-title="Music (All Lang)",LAYZER Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023207&extension=ts&play_token=BDPJje1TrL
+#EXTINF:-1 tvg-name="HARDCORERADIO" group-title="Music (All Lang)",HARDCORERADIO
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023205&extension=ts&play_token=VKDPtPPi7L
+#EXTINF:-1 tvg-name="Nashville FM" group-title="Music (All Lang)",Nashville FM
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023196&extension=ts&play_token=8W9iMnK3lf
+#EXTINF:-1 tvg-name="Music & More Radio" group-title="Music (All Lang)",Music & More Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023191&extension=ts&play_token=y7lhebXGdI
+#EXTINF:-1 tvg-name="QMUSIC BELGIË Radio" group-title="Music (All Lang)",QMUSIC BELGIË Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023186&extension=ts&play_token=f3uCiqdOZe
+#EXTINF:-1 tvg-name="MIXX FM" group-title="Music (All Lang)",MIXX FM
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023176&extension=ts&play_token=tqiD2iUzLD
+#EXTINF:-1 tvg-name="DEEP RADIO" group-title="Music (All Lang)",DEEP RADIO
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023175&extension=ts&play_token=kbfpndCOuC
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="538 PARTY" group-title="Music (All Lang)",538 PARTY
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023169&extension=ts&play_token=smuS0WaMxX
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="538 DANCE DEPARTMENT" group-title="Music (All Lang)",538 DANCE DEPARTMENT
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023168&extension=ts&play_token=ATL8rmpggE
+#EXTINF:-1 tvg-name="Radio 10 60's & 70's" group-title="Music (All Lang)",Radio 10 60's & 70's
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023167&extension=ts&play_token=HnlMefLuPE
+#EXTINF:-1 tvg-name="Radio 10 80's" group-title="Music (All Lang)",Radio 10 80's
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023166&extension=ts&play_token=zJRIvhZbIT
+#EXTINF:-1 tvg-name="Radio 10 90's" group-title="Music (All Lang)",Radio 10 90's
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023165&extension=ts&play_token=6MKWsIohiv
+#EXTINF:-1 tvg-name="FALCON RADIO" group-title="Music (All Lang)",FALCON RADIO
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023164&extension=ts&play_token=FWE3kPY3SU
+#EXTINF:-1 tvg-name="REAL Hardstyle Radio" group-title="Music (All Lang)",REAL Hardstyle Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023162&extension=ts&play_token=mZcVAOP5G2
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="FACTORY STATION" group-title="Music (All Lang)",FACTORY STATION
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023161&extension=ts&play_token=d4AOtOUXKE
+#EXTINF:-1 tvg-name="SKY RADIO Love Songs" group-title="Music (All Lang)",SKY RADIO Love Songs
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023159&extension=ts&play_token=1WFjAxJ1Ha
+#EXTINF:-1 tvg-name="Radio 10 Disco Classics" group-title="Music (All Lang)",Radio 10 Disco Classics
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023155&extension=ts&play_token=9oRRecgrnL
+#EXTINF:-1 tvg-name="SOUL Radio NL" group-title="Music (All Lang)",SOUL Radio NL
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023154&extension=ts&play_token=UDrl9nFBGq
+#EXTINF:-1 tvg-name="NL| SKY RADIO Hits l" group-title="Music (All Lang)",SKY RADIO Hits
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023138&extension=ts&play_token=rGEje3BzYm
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="538 HITZONE" group-title="Music (All Lang)",538 HITZONE
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023136&extension=ts&play_token=FtnWnLPOhT
+#EXTINF:-1 tvg-name="Radio Monique" group-title="Music (All Lang)",Radio Monique
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023132&extension=ts&play_token=Fw91UN4LBC
+#EXTINF:-1 tvg-name="HARDCORE POWER RADIO" group-title="Music (All Lang)",HARDCORE POWER RADIO
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023130&extension=ts&play_token=c77XNsRj0U
+#EXTINF:-1 tvg-name="RADIO EXTRA GOLD NL" group-title="Music (All Lang)",RADIO EXTRA GOLD NL
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023128&extension=ts&play_token=dIRnm2DaIv
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Amsterdam Funk Channel" group-title="Music (All Lang)",Amsterdam Funk Channel
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023121&extension=ts&play_token=vKj79n2AS7
+#EXTINF:-1 tvg-name="GRANDPRIX RADIO" group-title="Music (All Lang)",GRANDPRIX RADIO
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023117&extension=ts&play_token=G1K49pJy5m
+#EXTINF:-1 tvg-name="538 IBIZA RADIO" group-title="Music (All Lang)",538 IBIZA RADIO
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023110&extension=ts&play_token=16KHpAs5jh
+#EXTINF:-1 tvg-name="SLAM! Hardstyle NL Radio" group-title="Music (All Lang)",SLAM! Hardstyle NL Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023109&extension=ts&play_token=wcyFbcEIFZ
+#EXTINF:-1 tvg-name="INDIEXL Radio l" group-title="Music (All Lang)",INDIEXL Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023106&extension=ts&play_token=q1355LxWj0
+#EXTINF:-1 tvg-name="SKY RADIO Lounge" group-title="Music (All Lang)",SKY RADIO Lounge
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023099&extension=ts&play_token=SAGd8kdrQj
+#EXTINF:-1 tvg-name="SKY RADIO 90s" group-title="Music (All Lang)",SKY RADIO 90s
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023098&extension=ts&play_token=iyQrHQVO8q
+#EXTINF:-1 tvg-name="Disco Classic Radio" group-title="Music (All Lang)",Disco Classic Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023096&extension=ts&play_token=R5XtLougK8
+#EXTINF:-1 tvg-name="Radio 10 Love Songs" group-title="Music (All Lang)",Radio 10 Love Songs
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023094&extension=ts&play_token=P3QgC5nGWq
+#EXTINF:-1 tvg-name="SOULSHOW Radio NL" group-title="Music (All Lang)",SOULSHOW Radio NL
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023093&extension=ts&play_token=abqoUxWoDg
+#EXTINF:-1 tvg-name="QMUSIC Non-Stop Radio" group-title="Music (All Lang)",QMUSIC Non-Stop Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023092&extension=ts&play_token=GgzF0eIBZV
+#EXTINF:-1 tvg-name="SKY RADIO 80's" group-title="Music (All Lang)",SKY RADIO 80's
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023091&extension=ts&play_token=MiTCbcIujm
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="JAZZ DE VILLE - Chill" group-title="Music (All Lang)",JAZZ DE VILLE - Chill
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023087&extension=ts&play_token=l7QX3jJqQl
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="538 NONSTOP" group-title="Music (All Lang)",538 NONSTOP
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023084&extension=ts&play_token=ojPAobJUVQ
+#EXTINF:-1 tvg-name="Intense Radio" group-title="Music (All Lang)",Intense Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023083&extension=ts&play_token=0BvM4V3DIN
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SLAM! Non-stop NL" group-title="Music (All Lang)",SLAM! Non-stop NL
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023067&extension=ts&play_token=Py5OyWn4xV
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="The Boom Room NL" group-title="Music (All Lang)",The Boom Room NL
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023066&extension=ts&play_token=kGh8D58e6S
+#EXTINF:-1 tvg-name="RADIO JND" group-title="Music (All Lang)",RADIO JND
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023065&extension=ts&play_token=gvViFRvhOY
+#EXTINF:-1 tvg-name="Rebecca Radio" group-title="Music (All Lang)",Rebecca Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023061&extension=ts&play_token=eBaskUME9S
+#EXTINF:-1 tvg-name="Radio 10 Non-Stop" group-title="Music (All Lang)",Radio 10 Non-Stop
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023060&extension=ts&play_token=e0bmYFZzPf
+#EXTINF:-1 tvg-name="RADIO 509" group-title="Music (All Lang)",RADIO 509
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023059&extension=ts&play_token=Psa2hOUeD6
+#EXTINF:-1 tvg-name="SKY RADIO SMOOTH HITS" group-title="Music (All Lang)",SKY RADIO SMOOTH HITS
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023058&extension=ts&play_token=bWaG09MBNG
+#EXTINF:-1 tvg-name="SKY RADIO Running Hits Stretch & Relax" group-title="Music (All Lang)",SKY RADIO Running Hits Stretch & Relax
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023057&extension=ts&play_token=68oAIMEf3n
+#EXTINF:-1 tvg-name="Radio Veronica Non-Stop" group-title="Music (All Lang)",Radio Veronica Non-Stop
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023056&extension=ts&play_token=66B0mL8qC4
+#EXTINF:-1 tvg-name="Radio 10 Top 4000" group-title="Music (All Lang)",Radio 10 Top 4000
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023055&extension=ts&play_token=jED37qmPZH
+#EXTINF:-1 tvg-name="SLAM! 40 NL Radio" group-title="Music (All Lang)",SLAM! 40 NL Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023052&extension=ts&play_token=ixq1euOnkx
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SLAM! Mixmarathon NL" group-title="Music (All Lang)",SLAM! Mixmarathon NL
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023051&extension=ts&play_token=mhqv9Yvnwj
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="JAZZ DE VILLE - Dance" group-title="Music (All Lang)",JAZZ DE VILLE - Dance
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023049&extension=ts&play_token=FGPR4yPxQ7
+#EXTINF:-1 tvg-name="A.D.M. HARDSTYLE RADIO" group-title="Music (All Lang)",A.D.M. HARDSTYLE RADIO
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023047&extension=ts&play_token=Rxnb2exNW5
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SUBLIME Jazz NL" group-title="Music (All Lang)",SUBLIME Jazz NL
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023038&extension=ts&play_token=qnZQYzcIH2
+#EXTINF:-1 tvg-name="RGR FM Non-Stop Rhythm & Dance" group-title="Music (All Lang)",RGR FM Non-Stop Rhythm & Dance
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023036&extension=ts&play_token=Mzq8bewBNB
+#EXTINF:-1 tvg-name="4EVER RADIO" group-title="Music (All Lang)",4EVER RADIO
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023025&extension=ts&play_token=GWgWtjhIVy
+#EXTINF:-1 tvg-name="Hitstream FM" group-title="Music (All Lang)",Hitstream FM
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023023&extension=ts&play_token=9LGY5EO4Vo
+#EXTINF:-1 tvg-name="New Dance Radio (Explicit)" group-title="Music (All Lang)",New Dance Radio (Explicit)
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023020&extension=ts&play_token=QJPHK6AtTq
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="JOE Greatest Hits" group-title="Music (All Lang)",JOE Greatest Hits
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023006&extension=ts&play_token=R2M0ICAc5O
+#EXTINF:-1 tvg-name="Only 80's Radio" group-title="Music (All Lang)",Only 80's Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023004&extension=ts&play_token=U98KpgQngz
+#EXTINF:-1 tvg-name="40ROCK RADIO" group-title="Music (All Lang)",40ROCK RADIO
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023003&extension=ts&play_token=ZCUXfpFTI8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="SUBLIME Funk & Disco NL" group-title="Music (All Lang)",SUBLIME Funk & Disco NL
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2023000&extension=ts&play_token=5UzF3QTFBo
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="JND Classics" group-title="Music (All Lang)",JND Classics
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022995&extension=ts&play_token=ziGSlP9iKH
+#EXTINF:-1 tvg-name="In Tha House Radio" group-title="Music (All Lang)",In Tha House Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022993&extension=ts&play_token=wv2oHwmltf
+#EXTINF:-1 tvg-name="4EVER49 RADIO" group-title="Music (All Lang)",4EVER49 RADIO
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022990&extension=ts&play_token=6BMIEDocNn
+#EXTINF:-1 tvg-name="DANCEVIBES RADIO" group-title="Music (All Lang)",DANCEVIBES RADIO
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022980&extension=ts&play_token=WikyhrWG02
+#EXTINF:-1 tvg-name="KINK Classics 101.9 FM" group-title="Music (All Lang)",KINK Classics 101.9 FM
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022974&extension=ts&play_token=5wqRHX6ATP
+#EXTINF:-1 tvg-name="KINK Distortion Radio" group-title="Music (All Lang)",KINK Distortion Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022973&extension=ts&play_token=wcvmQXyfoU
+#EXTINF:-1 tvg-name="DEEP DANCE RADIO" group-title="Music (All Lang)",DEEP DANCE RADIO
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022967&extension=ts&play_token=9nZE1nnBjX
+#EXTINF:-1 tvg-name="Radio Relax FM" group-title="Music (All Lang)",Radio Relax FM
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022966&extension=ts&play_token=aIJalZ7L5S
+#EXTINF:-1 tvg-name="ELISA FM" group-title="Music (All Lang)",ELISA FM
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022957&extension=ts&play_token=ZxbEqBDpCK
+#EXTINF:-1 tvg-name="HAPPY.RADIO" group-title="Music (All Lang)",HAPPY.RADIO
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022956&extension=ts&play_token=tozlGJp9Xn
+#EXTINF:-1 tvg-name="JOUW 90s Radio" group-title="Music (All Lang)",JOUW 90s Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022952&extension=ts&play_token=59PnIkPb5D
+#EXTINF:-1 tvg-name="AXL RADIO" group-title="Music (All Lang)",AXL RADIO
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022951&extension=ts&play_token=9Fq2JBjVJ8
+#EXTINF:-1 tvg-name="FREAK RADIO" group-title="Music (All Lang)",FREAK RADIO
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022948&extension=ts&play_token=CxfodbUZCw
+#EXTINF:-1 tvg-name="Powersound Radio" group-title="Music (All Lang)",Powersound Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022940&extension=ts&play_token=FftaWqRdnC
+#EXTINF:-1 tvg-name="Radio Seabreeze" group-title="Music (All Lang)",Radio Seabreeze
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022926&extension=ts&play_token=GaHNWuBYiA
+#EXTINF:-1 tvg-name="PURE Twenty Four Radio" group-title="Music (All Lang)",PURE Twenty Four Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022925&extension=ts&play_token=m1vJotLyqk
+#EXTINF:-1 tvg-name="ALL-IN RADIO" group-title="Music (All Lang)",ALL-IN RADIO
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022923&extension=ts&play_token=MlkpPf6YFi
+#EXTINF:-1 tvg-name="Radio Star Amsterdam" group-title="Music (All Lang)",Radio Star Amsterdam
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022921&extension=ts&play_token=hgJ1mNWf5m
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Classic Hits 106 NL" group-title="Music (All Lang)",Classic Hits 106 NL
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022914&extension=ts&play_token=EEEidzeHbN
+#EXTINF:-1 tvg-name="Music Beatsz Radio" group-title="Music (All Lang)",Music Beatsz Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022906&extension=ts&play_token=38J9iaDh0E
+#EXTINF:-1 tvg-name="TRANCE 21 NL Radio" group-title="Music (All Lang)",TRANCE 21 NL Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022905&extension=ts&play_token=rDF6ATAQAf
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="ALL TIME HITS" group-title="Music (All Lang)",ALL TIME HITS
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022903&extension=ts&play_token=0O5uAe3pBC
+#EXTINF:-1 tvg-name="MixPerfect Radio" group-title="Music (All Lang)",MixPerfect Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=2022897&extension=ts&play_token=nyqDNTk0AZ
+#EXTINF:-1 tvg-id="StingrayNow4k.ca" tvg-name="Stingray Now 4K" group-title="Music (All Lang)",Stingray Now 4K
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1948653&extension=ts&play_token=L5NlozzQ26
-#EXTINF:-1 tvg-id="StingrayFestival.ca" tvg-name="Stingray Festival 4K" group-title="ENG - Music Videos",Stingray Festival 4K
+#EXTINF:-1 tvg-id="StingrayFestival.ca" tvg-name="Stingray Festival 4K" group-title="Music (All Lang)",Stingray Festival 4K
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1948652&extension=ts&play_token=ZpEEjjRzSo
-#EXTINF:-1 tvg-id="StingrayVibe.ca" tvg-name="Stingray Vibe" group-title="ENG - Music Videos",Stingray Vibe
+#EXTINF:-1 tvg-id="StingrayVibe.ca" tvg-name="Stingray Vibe" group-title="Music (All Lang)",Stingray Vibe
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1566862&extension=ts&play_token=CJpost60jr
-#EXTINF:-1 tvg-id="QelloConcertsbyStingray.us" tvg-name="Stingray Qello Concerts" group-title="ENG - Music Videos",Stingray Qello Concerts
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.us" tvg-name="Stingray Qello Concerts" group-title="Music (All Lang)",Stingray Qello Concerts
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1566936&extension=ts&play_token=LawFVYFxrX
-#EXTINF:-1 tvg-id="StingrayHip-Hop_RandB.ca" tvg-name="Stingray Hip-Hop/R&B" group-title="ENG - Music Videos",Stingray Hip-Hop/R&B
+#EXTINF:-1 tvg-id="StingrayHip-Hop_RandB.ca" tvg-name="Stingray Hip-Hop/R&B" group-title="Music (All Lang)",Stingray Hip-Hop/R&B
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1566933&extension=ts&play_token=4VHXromSo3
-#EXTINF:-1 tvg-id="StingrayNothinbut90s.ca" tvg-name="Stingray Nothin' But '90s" group-title="ENG - Music Videos",Stingray Nothin' But '90s
+#EXTINF:-1 tvg-id="StingrayNothinbut90s.ca" tvg-name="Stingray Nothin' But '90s" group-title="Music (All Lang)",Stingray Nothin' But '90s
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1566931&extension=ts&play_token=3H1lI1yKl6
-#EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-name="Stingray Easy Listening" group-title="ENG - Music Videos",Stingray Easy Listening
+#EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-name="Stingray Easy Listening" group-title="Music (All Lang)",Stingray Easy Listening
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1566930&extension=ts&play_token=3FmXYhf9xy
-#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-name="Stingray Classica SD" group-title="ENG - Music Videos",Stingray Classica SD
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-name="Stingray Classica SD" group-title="Music (All Lang)",Stingray Classica SD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1566915&extension=ts&play_token=CA2yn9M47h
-#EXTINF:-1 tvg-id="StingrayDJazz.ca" tvg-name="Stingray DJAZZ FHD" group-title="ENG - Music Videos",Stingray DJAZZ FHD
+#EXTINF:-1 tvg-id="StingrayDJazz.ca" tvg-name="Stingray DJAZZ FHD" group-title="Music (All Lang)",Stingray DJAZZ FHD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1566876&extension=ts&play_token=z4iiE9dnHq
-#EXTINF:-1 tvg-id="plex.tv.Today`s.K-Pop.plex" tvg-name="Stingray Today's K-Pop" group-title="ENG - Music Videos",Stingray Today's K-Pop
+#EXTINF:-1 tvg-id="plex.tv.Today`s.K-Pop.plex" tvg-name="Stingray Today's K-Pop" group-title="Music (All Lang)",Stingray Today's K-Pop
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1566865&extension=ts&play_token=S5wOphf9St
-#EXTINF:-1 tvg-id="StingrayCountry.ca" tvg-name="Stingray Country HD" group-title="ENG - Music Videos",Stingray Country HD
+#EXTINF:-1 tvg-id="StingrayCountry.ca" tvg-name="Stingray Country HD" group-title="Music (All Lang)",Stingray Country HD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423359&extension=ts&play_token=nrklPyYBZ3
-#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-name="Stingray Classic Rock" group-title="ENG - Music Videos",Stingray Classic Rock
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-name="Stingray Classic Rock" group-title="Music (All Lang)",Stingray Classic Rock
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423356&extension=ts&play_token=Fxo0FjNCEK
-#EXTINF:-1 tvg-id="StingrayFestival.ca" tvg-name="Stingray Festival 4K (Alt)" group-title="ENG - Music Videos",Stingray Festival 4K (Alt)
+#EXTINF:-1 tvg-id="StingrayFestival.ca" tvg-name="Stingray Festival 4K (Alt)" group-title="Music (All Lang)",Stingray Festival 4K (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423355&extension=ts&play_token=Lvv1fgkOCB
-#EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-name="Stingray Easy Listening" group-title="ENG - Music Videos",Stingray Easy Listening
+#EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-name="Stingray Easy Listening" group-title="Music (All Lang)",Stingray Easy Listening
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423354&extension=ts&play_token=5RbBuL0Q4I
-#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-name="Stingray Flashback '70s" group-title="ENG - Music Videos",Stingray Flashback '70s
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-name="Stingray Flashback '70s" group-title="Music (All Lang)",Stingray Flashback '70s
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423353&extension=ts&play_token=jVAArPzOVp
-#EXTINF:-1 tvg-id="StingrayFrancoCountry.ca" tvg-name="Stingray Franco Country" group-title="ENG - Music Videos",Stingray Franco Country
+#EXTINF:-1 tvg-id="StingrayFrancoCountry.ca" tvg-name="Stingray Franco Country" group-title="Music (All Lang)",Stingray Franco Country
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423352&extension=ts&play_token=BAhWgLMgua
-#EXTINF:-1 tvg-id="StingrayFrancoRetro.ca" tvg-name="Stingray Franco Retro" group-title="ENG - Music Videos",Stingray Franco Retro
+#EXTINF:-1 tvg-id="StingrayFrancoRetro.ca" tvg-name="Stingray Franco Retro" group-title="Music (All Lang)",Stingray Franco Retro
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423351&extension=ts&play_token=vrJ7YrGKeZ
-#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-name="Stingray Hit List HD" group-title="ENG - Music Videos",Stingray Hit List HD
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-name="Stingray Hit List HD" group-title="Music (All Lang)",Stingray Hit List HD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423350&extension=ts&play_token=WVtDLrQANr
-#EXTINF:-1 tvg-id="StingrayHits.ca" tvg-name="Stingray Hits HD" group-title="ENG - Music Videos",Stingray Hits HD
+#EXTINF:-1 tvg-id="StingrayHits.ca" tvg-name="Stingray Hits HD" group-title="Music (All Lang)",Stingray Hits HD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423349&extension=ts&play_token=GuFuvHI63o
-#EXTINF:-1 tvg-id="StingrayNow4k.ca" tvg-name="Stingray Now 4K" group-title="ENG - Music Videos",Stingray Now 4K
+#EXTINF:-1 tvg-id="StingrayNow4k.ca" tvg-name="Stingray Now 4K" group-title="Music (All Lang)",Stingray Now 4K
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423348&extension=ts&play_token=mqISUYuBIj
-#EXTINF:-1 tvg-id="StingrayLePalmarès.ca" tvg-name="Stingray Palmarès" group-title="ENG - Music Videos",Stingray Palmarès
+#EXTINF:-1 tvg-id="StingrayLePalmarès.ca" tvg-name="Stingray Palmarès" group-title="Music (All Lang)",Stingray Palmarès
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423347&extension=ts&play_token=o2rfJlnRTq
-#EXTINF:-1 tvg-id="StingrayNature.ca" tvg-name="Stingray Nature SD" group-title="ENG - Music Videos",Stingray Nature SD
+#EXTINF:-1 tvg-id="StingrayNature.ca" tvg-name="Stingray Nature SD" group-title="Music (All Lang)",Stingray Nature SD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423345&extension=ts&play_token=Alw0GI9hNR
-#EXTINF:-1 tvg-id="StingrayNostalgie.ca" tvg-name="Stingray Nostalgie" group-title="ENG - Music Videos",Stingray Nostalgie
+#EXTINF:-1 tvg-id="StingrayNostalgie.ca" tvg-name="Stingray Nostalgie" group-title="Music (All Lang)",Stingray Nostalgie
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423343&extension=ts&play_token=Dkosn7lBy0
-#EXTINF:-1 tvg-id="StingrayRememberthe80s.ca" tvg-name="Stingray Remember The '80s" group-title="ENG - Music Videos",Stingray Remember The '80s
+#EXTINF:-1 tvg-id="StingrayRememberthe80s.ca" tvg-name="Stingray Remember The '80s" group-title="Music (All Lang)",Stingray Remember The '80s
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423341&extension=ts&play_token=E2Gvf763Eo
-#EXTINF:-1 tvg-id="StingrayRetro.ca" tvg-name="Stingray Retro HD" group-title="ENG - Music Videos",Stingray Retro HD
+#EXTINF:-1 tvg-id="StingrayRetro.ca" tvg-name="Stingray Retro HD" group-title="Music (All Lang)",Stingray Retro HD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423340&extension=ts&play_token=NR39aevSh7
-#EXTINF:-1 tvg-id="StingrayTheBlues.ca" tvg-name="Stingray The Blues" group-title="ENG - Music Videos",Stingray The Blues
+#EXTINF:-1 tvg-id="StingrayTheBlues.ca" tvg-name="Stingray The Blues" group-title="Music (All Lang)",Stingray The Blues
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423334&extension=ts&play_token=Ekhzq3S9vv
-#EXTINF:-1 tvg-name="MTV Live FHD UK" group-title="ENG - Music Videos",MTV Live FHD UK
+#EXTINF:-1 tvg-name="MTV Live FHD UK" group-title="Music (All Lang)",MTV Live FHD UK
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=45325&extension=ts&play_token=gSyQOEjTCo
-#EXTINF:-1 tvg-id="MusicChoiceThrowbackJams.us" tvg-name="MC Throwback Jams" group-title="ENG - Music Videos",MC Throwback Jams
+#EXTINF:-1 tvg-id="MusicChoiceThrowbackJams.us" tvg-name="MC Throwback Jams" group-title="Music (All Lang)",MC Throwback Jams
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014289&extension=ts&play_token=Ek94YN96Fk
-#EXTINF:-1 tvg-id="MusicChoiceJoyfulInstrumentals.us" tvg-name="MC Joyful Instrumentals" group-title="ENG - Music Videos",MC Joyful Instrumentals
+#EXTINF:-1 tvg-id="MusicChoiceJoyfulInstrumentals.us" tvg-name="MC Joyful Instrumentals" group-title="Music (All Lang)",MC Joyful Instrumentals
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014287&extension=ts&play_token=6vbgonPc5m
-#EXTINF:-1 tvg-id="MusicChoiceRock.us" tvg-name="MC Rock" group-title="ENG - Music Videos",MC Rock
+#EXTINF:-1 tvg-name="MC Tropicales UK" group-title="Music (All Lang)",MC Tropicales UK
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014285&extension=ts&play_token=XYkBUpZwTu
+#EXTINF:-1 tvg-id="MusicChoiceRock.us" tvg-name="MC Rock" group-title="Music (All Lang)",MC Rock
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014284&extension=ts&play_token=5Ou85NjSuM
-#EXTINF:-1 tvg-id="MusicChoiceDance.us" tvg-name="MC Dance 1 (Alt1)" group-title="ENG - Music Videos",MC Dance 1
+#EXTINF:-1 tvg-id="MusicChoiceDance.us" tvg-name="MC Dance 1 (Alt1)" group-title="Music (All Lang)",MC Dance 1
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014283&extension=ts&play_token=hkFifPP0tG
-#EXTINF:-1 tvg-id="MusicChoiceCalmingClassical.us" tvg-name="MC Calming Classical UK" group-title="ENG - Music Videos",MC Calming Classical UK
+#EXTINF:-1 tvg-id="MusicChoiceCalmingClassical.us" tvg-name="MC Calming Classical UK" group-title="Music (All Lang)",MC Calming Classical UK
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014277&extension=ts&play_token=wULmdcYHOQ
-#EXTINF:-1 tvg-id="MusicChoiceHip-HopClassics.us" tvg-name="MC Hip-Hop Classics" group-title="ENG - Music Videos",MC Hip-Hop Classics
+#EXTINF:-1 tvg-id="MusicChoiceHip-HopClassics.us" tvg-name="MC Hip-Hop Classics" group-title="Music (All Lang)",MC Hip-Hop Classics
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014275&extension=ts&play_token=WR8EdeFMlL
-#EXTINF:-1 tvg-id="MusicChoiceDance.us" tvg-name="MC Dance 2" group-title="ENG - Music Videos",MC Dance 2
+#EXTINF:-1 tvg-id="MusicChoiceDance.us" tvg-name="MC Dance 2" group-title="Music (All Lang)",MC Dance 2
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014274&extension=ts&play_token=xBOkJVPkNT
-#EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="Clubland TV UK" group-title="ENG - Music Videos",Clubland TV UK
+#EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="Clubland TV UK" group-title="Music (All Lang)",Clubland TV UK
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=163793&extension=ts&play_token=yDM5ycZ8Op
-#EXTINF:-1 tvg-id="NOW70s.uk" tvg-name="NOW 70s UK" group-title="ENG - Music Videos",NOW 70s UK
+#EXTINF:-1 tvg-id="NOW70s.uk" tvg-name="NOW 70s UK" group-title="Music (All Lang)",NOW 70s UK
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=164022&extension=ts&play_token=2W96YuGCqN
-#EXTINF:-1 tvg-id="NOW.90s.uk" tvg-name="NOW 90s UK" group-title="ENG - Music Videos",NOW 90s UK
+#EXTINF:-1 tvg-id="NOW.90s.uk" tvg-name="NOW 90s UK" group-title="Music (All Lang)",NOW 90s UK
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=163796&extension=ts&play_token=7TBXXMyKZi
-#EXTINF:-1 tvg-id="MusicChoice80s.us" tvg-name="MC '80'S - DIRECT ᴴᴰ" group-title="ENG - Music Videos",MC '80'S - DIRECT ᴴᴰ
+#EXTINF:-1 tvg-id="MusicChoice80s.us" tvg-name="MC '80'S - DIRECT ᴴᴰ" group-title="Music (All Lang)",MC '80'S - DIRECT ᴴᴰ
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921464&extension=ts&play_token=p5TnrQrfxq
-#EXTINF:-1 tvg-id="MusicChoiceCountryFavorites.us" tvg-name="MC Country Favorites - DIRECT ᴴᴰ" group-title="ENG - Music Videos",MC Country Favorites - DIRECT ᴴᴰ
+#EXTINF:-1 tvg-id="MusicChoiceCountryFavorites.us" tvg-name="MC Country Favorites - DIRECT ᴴᴰ" group-title="Music (All Lang)",MC Country Favorites - DIRECT ᴴᴰ
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921462&extension=ts&play_token=agNP12dQeJ
-#EXTINF:-1 tvg-id="MusicChoiceHip-HopandRandB.us" tvg-name="MC Hip-Hop/R&B" group-title="ENG - Music Videos",MC Hip-Hop/R&B
+#EXTINF:-1 tvg-id="MusicChoiceHip-HopandRandB.us" tvg-name="MC Hip-Hop/R&B" group-title="Music (All Lang)",MC Hip-Hop/R&B
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921460&extension=ts&play_token=5ufKVyTZJH
-#EXTINF:-1 tvg-id="MusicChoice60sAnd70sMellowHits.us" tvg-name="MC '60s & 70s Mellow Hits - DIRECT ᴴᴰ" group-title="ENG - Music Videos",MC '60s & 70s Mellow Hits - DIRECT ᴴᴰ
+#EXTINF:-1 tvg-name="MC Romantic Latin Pop - DIRECT ᴴᴰ" group-title="Music (All Lang)",MC Romantic Latin Pop - DIRECT ᴴᴰ
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921457&extension=ts&play_token=YamoAKL7bD
+#EXTINF:-1 tvg-id="MusicChoice60sAnd70sMellowHits.us" tvg-name="MC '60s & 70s Mellow Hits - DIRECT ᴴᴰ" group-title="Music (All Lang)",MC '60s & 70s Mellow Hits - DIRECT ᴴᴰ
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921456&extension=ts&play_token=CYAXk0kVmP
-#EXTINF:-1 tvg-id="MusicChoicePopAndCountry.us" tvg-name="MC POP & COUNTRY" group-title="ENG - Music Videos",MC POP & COUNTRY
+#EXTINF:-1 tvg-id="MusicChoicePopAndCountry.us" tvg-name="MC POP & COUNTRY" group-title="Music (All Lang)",MC POP & COUNTRY
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921454&extension=ts&play_token=iZ0NZRWmU9
-#EXTINF:-1 tvg-id="MusicChoicePopHits.us" tvg-name="MC Pop Hits" group-title="ENG - Music Videos",MC Pop Hits
+#EXTINF:-1 tvg-id="MusicChoicePopHits.us" tvg-name="MC Pop Hits" group-title="Music (All Lang)",MC Pop Hits
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921453&extension=ts&play_token=SMzV155ijr
-#EXTINF:-1 tvg-id="MusicChoiceDance.us" tvg-name="MC Dance 1 (Alt1)" group-title="ENG - Music Videos",MC Dance 1 (Alt1)
+#EXTINF:-1 tvg-id="MusicChoiceDance.us" tvg-name="MC Dance 1 (Alt1)" group-title="Music (All Lang)",MC Dance 1 (Alt1)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921449&extension=ts&play_token=lT4kUE2DO2
-#EXTINF:-1 tvg-id="MusicChoiceSoftRock.us" tvg-name="MC Soft Rock" group-title="ENG - Music Videos",MC Soft Rock
+#EXTINF:-1 tvg-id="MusicChoiceSoftRock.us" tvg-name="MC Soft Rock" group-title="Music (All Lang)",MC Soft Rock
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921448&extension=ts&play_token=V1kOI2hKrz
-#EXTINF:-1 tvg-id="MusicChoiceThrowbackJams.us" tvg-name="MC Throwback Jams 2" group-title="ENG - Music Videos",MC Throwback Jams 2
+#EXTINF:-1 tvg-id="MusicChoiceThrowbackJams.us" tvg-name="MC Throwback Jams 2" group-title="Music (All Lang)",MC Throwback Jams 2
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921446&extension=ts&play_token=jn52RDNjTn
-#EXTINF:-1 tvg-id="MusicChoice70sAnd80sFavorites.us" tvg-name="MC '70s & '80s Favorites - DIRECT ᴴᴰ" group-title="ENG - Music Videos",MC '70s & '80s Favorites - DIRECT ᴴᴰ
+#EXTINF:-1 tvg-id="MusicChoice70sAnd80sFavorites.us" tvg-name="MC '70s & '80s Favorites - DIRECT ᴴᴰ" group-title="Music (All Lang)",MC '70s & '80s Favorites - DIRECT ᴴᴰ
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921444&extension=ts&play_token=0beeNORsSL
-#EXTINF:-1 tvg-id="MusicChoiceJoyfulInstrumentals.us" tvg-name="MC Joyful Instrumentals (Alt1)" group-title="ENG - Music Videos",MC Joyful Instrumentals (Alt1)
+#EXTINF:-1 tvg-id="MusicChoiceJoyfulInstrumentals.us" tvg-name="MC Joyful Instrumentals (Alt1)" group-title="Music (All Lang)",MC Joyful Instrumentals (Alt1)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921443&extension=ts&play_token=xBAXaDucdK
-#EXTINF:-1 tvg-id="MusicChoice90s.us" tvg-name="MC '90s" group-title="ENG - Music Videos",MC '90s
+#EXTINF:-1 tvg-id="MusicChoice90s.us" tvg-name="MC '90s" group-title="Music (All Lang)",MC '90s
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921442&extension=ts&play_token=OcOByw1hN1
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Celine Dion Concerts" group-title="ENG - Music Videos",Celine Dion Concerts
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Celine Dion Concerts" group-title="Music (All Lang)",Celine Dion Concerts
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1061870&extension=ts&play_token=oOsAZ5Rmce
-#EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="Clubland TV (Alt)" group-title="ENG - Music Videos",Clubland TV (Alt)
+#EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="Clubland TV (Alt)" group-title="Music (All Lang)",Clubland TV (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372117&extension=ts&play_token=i5C4M3JoUH
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DJ STINGRAY FHD" group-title="ENG - Music Videos",DJ STINGRAY FHD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DJ STINGRAY FHD" group-title="Music (All Lang)",DJ STINGRAY FHD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=830782&extension=ts&play_token=kk7D1PuJSk
-#EXTINF:-1 tvg-id="Elvis.Presley.Music.Channel.DUMMY.us" tvg-name="Elvis Presley Music" group-title="ENG - Music Videos",Elvis Presley Music
+#EXTINF:-1 tvg-id="Elvis.Presley.Music.Channel.DUMMY.us" tvg-name="Elvis Presley Music" group-title="Music (All Lang)",Elvis Presley Music
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1061871&extension=ts&play_token=xoMtGjZNUb
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="EuroDance 90 HD" group-title="ENG - Music Videos",EuroDance 90 HD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="EuroDance 90 HD" group-title="Music (All Lang)",EuroDance 90 HD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=956413&extension=ts&play_token=MlK1BpyglG
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Johnny Hallyday Concerts" group-title="ENG - Music Videos",Johnny Hallyday Concerts
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Johnny Hallyday Concerts" group-title="Music (All Lang)",Johnny Hallyday Concerts
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1061872&extension=ts&play_token=aoOx5poPuP
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Madonna Music" group-title="ENG - Music Videos",Madonna Music
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Madonna Music" group-title="Music (All Lang)",Madonna Music
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1061873&extension=ts&play_token=mzo3XiRdoT
-#EXTINF:-1 tvg-id="MusicChoiceDance.us" tvg-name="MC Dance 2 (Alt1)" group-title="ENG - Music Videos",MC Dance 2 (Alt1)
+#EXTINF:-1 tvg-name="MC Tropicales" group-title="Music (All Lang)",MC Tropicales
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372116&extension=ts&play_token=JEUbEmhyZD
+#EXTINF:-1 tvg-id="MusicChoiceDance.us" tvg-name="MC Dance 2 (Alt1)" group-title="Music (All Lang)",MC Dance 2 (Alt1)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372109&extension=ts&play_token=cPlilj2KHY
-#EXTINF:-1 tvg-id="MusicChoiceHip-HopClassics.us" tvg-name="MC Hip-Hop Classics (Alt)" group-title="ENG - Music Videos",MC Hip-Hop Classics (Alt)
+#EXTINF:-1 tvg-id="MusicChoiceHip-HopClassics.us" tvg-name="MC Hip-Hop Classics (Alt)" group-title="Music (All Lang)",MC Hip-Hop Classics (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372108&extension=ts&play_token=AmBZpnd8wJ
-#EXTINF:-1 tvg-id="MusicChoiceCalmingClassical.us" tvg-name="MC Calming Classical" group-title="ENG - Music Videos",MC Calming Classical
+#EXTINF:-1 tvg-id="MusicChoiceCalmingClassical.us" tvg-name="MC Calming Classical" group-title="Music (All Lang)",MC Calming Classical
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372106&extension=ts&play_token=ea6Pke9WFN
-#EXTINF:-1 tvg-id="MusicChoicePopHits.us" tvg-name="MC Pop Hits (Alt)" group-title="ENG - Music Videos",MC Pop Hits (Alt)
+#EXTINF:-1 tvg-id="MusicChoicePopHits.us" tvg-name="MC Pop Hits (Alt)" group-title="Music (All Lang)",MC Pop Hits (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372103&extension=ts&play_token=SabiWNOkhl
-#EXTINF:-1 tvg-id="MusicChoiceSleepNoise.us" tvg-name="MC Sleep Sounds" group-title="ENG - Music Videos",MC Sleep Sounds
+#EXTINF:-1 tvg-id="MusicChoiceSleepNoise.us" tvg-name="MC Sleep Sounds" group-title="Music (All Lang)",MC Sleep Sounds
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372102&extension=ts&play_token=y4sLFvNUVh
-#EXTINF:-1 tvg-id="MusicChoiceRock.us" tvg-name="MC Rock (Alt)" group-title="ENG - Music Videos",MC Rock (Alt)
+#EXTINF:-1 tvg-id="MusicChoiceRock.us" tvg-name="MC Rock (Alt)" group-title="Music (All Lang)",MC Rock (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372099&extension=ts&play_token=wBn1XPG742
-#EXTINF:-1 tvg-id="MusicChoiceThrowbackJams.us" tvg-name="MC Throwback Jams (Alt)" group-title="ENG - Music Videos",MC Throwback Jams (Alt)
+#EXTINF:-1 tvg-name="MC Tropicales" group-title="Music (All Lang)",MC Tropicales
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372098&extension=ts&play_token=LPdLaOL2Gl
+#EXTINF:-1 tvg-id="MusicChoiceThrowbackJams.us" tvg-name="MC Throwback Jams (Alt)" group-title="Music (All Lang)",MC Throwback Jams (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372094&extension=ts&play_token=z96Ufq01t4
-#EXTINF:-1 tvg-id="MusicChoiceJoyfulInstrumentals.us" tvg-name="MC Joyful Instrumentals (Alt2)" group-title="ENG - Music Videos",MC Joyful Instrumentals (Alt2)
+#EXTINF:-1 tvg-id="MusicChoiceJoyfulInstrumentals.us" tvg-name="MC Joyful Instrumentals (Alt2)" group-title="Music (All Lang)",MC Joyful Instrumentals (Alt2)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372096&extension=ts&play_token=X8pPcJwPtb
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Michael Jackson Music" group-title="ENG - Music Videos",Michael Jackson Music
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Michael Jackson Music" group-title="Music (All Lang)",Michael Jackson Music
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=930686&extension=ts&play_token=0NTE9TCyRx
-#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic US" group-title="ENG - Music Videos",MTV Classic US
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic US" group-title="Music (All Lang)",MTV Classic US
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=887378&extension=ts&play_token=KZtFp4dbJH
-#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live FHD US" group-title="ENG - Music Videos",MTV Live FHD US
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live FHD US" group-title="Music (All Lang)",MTV Live FHD US
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=887377&extension=ts&play_token=qoTEY6rL68
-#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live HD US" group-title="ENG - Music Videos",MTV Live HD US
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live HD US" group-title="Music (All Lang)",MTV Live HD US
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372084&extension=ts&play_token=XS24PR3j71
-#EXTINF:-1 tvg-id="MTV.Norway.(NO,NO).no" tvg-name="MTV Norway" group-title="ENG - Music Videos",NO).no" tvg-name="MTV Norway" group-title="ENG - Music Videos",NO).no" tvg-name="MTV Norway" group-title="ENG | Music",MTV Norway
+#EXTINF:-1 tvg-id="MTV.Norway.(NO,NO).no" tvg-name="MTV Norway" group-title="Music (All Lang)",NO).no" tvg-name="MTV Norway" group-title="ENG - Music Videos",NO).no" tvg-name="MTV Norway" group-title="ENG - Music Videos",NO).no" tvg-name="MTV Norway" group-title="ENG | Music",MTV Norway
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=887376&extension=ts&play_token=kOiGZp8sWc
-#EXTINF:-1 tvg-id="NOW70s.uk" tvg-name="NOW 70s" group-title="ENG - Music Videos",NOW 70s
+#EXTINF:-1 tvg-id="NOW70s.uk" tvg-name="NOW 70s" group-title="Music (All Lang)",NOW 70s
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372131&extension=ts&play_token=TmCQA91kMU
-#EXTINF:-1 tvg-id="NOW90s.uk" tvg-name="NOW 90s" group-title="ENG - Music Videos",NOW 90s
+#EXTINF:-1 tvg-id="NOW90s.uk" tvg-name="NOW 90s" group-title="Music (All Lang)",NOW 90s
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372133&extension=ts&play_token=VcsHonhi2B
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Q-DANCE 2021 1 FHD" group-title="ENG - Music Videos",Q-DANCE 2021 1 FHD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Q-DANCE 2021 1 FHD" group-title="Music (All Lang)",Q-DANCE 2021 1 FHD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=829537&extension=ts&play_token=u6lJMLRtNa
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Q-DANCE 2021 2 FHD" group-title="ENG - Music Videos",Q-DANCE 2021 2 FHD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Q-DANCE 2021 2 FHD" group-title="Music (All Lang)",Q-DANCE 2021 2 FHD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=829544&extension=ts&play_token=XemeoumX09
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Q-DANCE 2021 3 FHD" group-title="ENG - Music Videos",Q-DANCE 2021 3 FHD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Q-DANCE 2021 3 FHD" group-title="Music (All Lang)",Q-DANCE 2021 3 FHD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=829543&extension=ts&play_token=I5VBtqAN3O
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Q-DANCE 2021 4 FHD" group-title="ENG - Music Videos",Q-DANCE 2021 4 FHD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Q-DANCE 2021 4 FHD" group-title="Music (All Lang)",Q-DANCE 2021 4 FHD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=829542&extension=ts&play_token=edGsQKC5W3
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Q-DANCE 2021 5 FHD" group-title="ENG - Music Videos",Q-DANCE 2021 5 FHD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Q-DANCE 2021 5 FHD" group-title="Music (All Lang)",Q-DANCE 2021 5 FHD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=829541&extension=ts&play_token=kdPojplCTJ
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Queen Music" group-title="ENG - Music Videos",Queen Music
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Queen Music" group-title="Music (All Lang)",Queen Music
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1061874&extension=ts&play_token=7YIBJnQlHl
-#EXTINF:-1 tvg-id="RETROMUSICTV.cz" tvg-name="RETRO 80s Music Videos SD" group-title="ENG - Music Videos",RETRO 80s Music Videos SD
+#EXTINF:-1 tvg-id="RETROMUSICTV.cz" tvg-name="RETRO 80s Music Videos SD" group-title="Music (All Lang)",RETRO 80s Music Videos SD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1103406&extension=ts&play_token=xxxLWhDW11
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="RIHANNA Music" group-title="ENG - Music Videos",RIHANNA Music
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="RIHANNA Music" group-title="Music (All Lang)",RIHANNA Music
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1061875&extension=ts&play_token=qpNhZh7R8v
-#EXTINF:-1 tvg-id="StingrayRememberthe80s.ca" tvg-name="Stingray Remember The '80s (Alt)" group-title="ENG - Music Videos",Stingray Remember The '80s (Alt)
+#EXTINF:-1 tvg-id="StingrayRememberthe80s.ca" tvg-name="Stingray Remember The '80s (Alt)" group-title="Music (All Lang)",Stingray Remember The '80s (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1045331&extension=ts&play_token=so42ap2FEP
-#EXTINF:-1 tvg-id="StingrayLoud.ca" tvg-name="Stingray Loud" group-title="ENG - Music Videos",Stingray Loud
+#EXTINF:-1 tvg-id="StingrayLoud.ca" tvg-name="Stingray Loud" group-title="Music (All Lang)",Stingray Loud
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=886231&extension=ts&play_token=QbAiJW9j4b
-#EXTINF:-1 tvg-id="StingrayTheBlues.ca" tvg-name="Stingray The Blues (Alt)" group-title="ENG - Music Videos",Stingray The Blues (Alt)
+#EXTINF:-1 tvg-id="StingrayTheBlues.ca" tvg-name="Stingray The Blues (Alt)" group-title="Music (All Lang)",Stingray The Blues (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=886232&extension=ts&play_token=pwWyOudTEr
-#EXTINF:-1 tvg-id="StingrayTheChillLounge.ca" tvg-name="Stingray The Chill Lounge" group-title="ENG - Music Videos",Stingray The Chill Lounge
+#EXTINF:-1 tvg-id="StingrayTheChillLounge.ca" tvg-name="Stingray The Chill Lounge" group-title="Music (All Lang)",Stingray The Chill Lounge
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=886233&extension=ts&play_token=VYNUOdrjtX
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Stingray Movie Music" group-title="ENG - Music Videos",Stingray Movie Music
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Stingray Movie Music" group-title="Music (All Lang)",Stingray Movie Music
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=886236&extension=ts&play_token=XBSFkleFgQ
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Tomorrowland 2022 FHD" group-title="ENG - Music Videos",Tomorrowland 2022 FHD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Tomorrowland 2022 FHD" group-title="Music (All Lang)",Tomorrowland 2022 FHD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1009271&extension=ts&play_token=BJOE6dmMir
-#EXTINF:-1 tvg-id="TraceBrazuca.pt" tvg-name="TRACE BRAZUCA" group-title="ENG - Music Videos",TRACE BRAZUCA
+#EXTINF:-1 tvg-id="TraceBrazuca.pt" tvg-name="TRACE BRAZUCA" group-title="Music (All Lang)",TRACE BRAZUCA
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372114&extension=ts&play_token=BuGc3eihE3
-#EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-name="TRACE MIZKI (Africa)" group-title="ENG - Music Videos",TRACE MIZKI (Africa)
+#EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-name="TRACE MIZKI (Africa)" group-title="Music (All Lang)",TRACE MIZKI (Africa)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372115&extension=ts&play_token=Z8KSz6czfM
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="TRACE URBAN" group-title="ENG - Music Videos",TRACE URBAN
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="TRACE URBAN" group-title="Music (All Lang)",TRACE URBAN
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372121&extension=ts&play_token=Aa2lB64AmD
-#EXTINF:-1 tvg-name="VEVO '80S" group-title="ENG - Music Videos",VEVO '80S
+#EXTINF:-1 tvg-name="VEVO '80S" group-title="Music (All Lang)",VEVO '80S
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=886256&extension=ts&play_token=5nhZHYX6Em
-#EXTINF:-1 tvg-name="VEVO '90S" group-title="ENG - Music Videos",VEVO '90S
+#EXTINF:-1 tvg-name="VEVO '90S" group-title="Music (All Lang)",VEVO '90S
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=886255&extension=ts&play_token=ohaRSmeDQ0
-#EXTINF:-1 tvg-id="Vevo2K.pluto" tvg-name="VEVO 2K" group-title="ENG - Music Videos",VEVO 2K
+#EXTINF:-1 tvg-id="Vevo2K.pluto" tvg-name="VEVO 2K" group-title="Music (All Lang)",VEVO 2K
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=886254&extension=ts&play_token=leiyoIvkvq
-#EXTINF:-1 tvg-name="VEVO Hip-Hop" group-title="ENG - Music Videos",VEVO Hip-Hop
+#EXTINF:-1 tvg-id="VevoCountry.pluto" tvg-name="VEVO Country Radio" group-title="Music (All Lang)",VEVO Country Radio
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=886259&extension=ts&play_token=HSkBu0UuMf
+#EXTINF:-1 tvg-name="VEVO Hip-Hop" group-title="Music (All Lang)",VEVO Hip-Hop
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=886260&extension=ts&play_token=RwoTmtgEwJ
-#EXTINF:-1 tvg-id="VevoPop.pluto" tvg-name="VEVO Pop" group-title="ENG - Music Videos",VEVO Pop
+#EXTINF:-1 tvg-id="VevoPop.pluto" tvg-name="VEVO Pop" group-title="Music (All Lang)",VEVO Pop
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=886251&extension=ts&play_token=ZfCbY392I8
-#EXTINF:-1 tvg-name="VEVO Reggaeton & Trap" group-title="ENG - Music Videos",VEVO Reggaeton & Trap
+#EXTINF:-1 tvg-name="VEVO Reggaeton & Trap" group-title="Music (All Lang)",VEVO Reggaeton & Trap
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=886258&extension=ts&play_token=IIEaLiPi8g
 
 #GROUP:ENG - Kids & Family
@@ -854,10 +860,6 @@ http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1566937&extension=t
 #EXTINF:-1 tvg-id="StingrayNaturescape4K.ca" tvg-name="Stingray Naturescape 4K (Alt)" group-title="Ambiance",Stingray Naturescape 4K (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1423358&extension=ts&play_token=al9b26JRTn
 
-#GROUP:ENG - Entertainment
-#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV FHD UK" group-title="ENG - Entertainment",MTV FHD UK
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=45326&extension=ts&play_token=d7pcvnjcp0
-
 #GROUP:Z - Offline Streams
 #EXTINF:-1 tvg-id="MusicChoiceTodaysCountry.us" tvg-name="MC Today's Country UK" group-title="Z - Offline Streams",MC Today's Country UK
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014286&extension=ts&play_token=D5JEspj0Ne
@@ -868,80 +870,70 @@ http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372107&extension=t
 #EXTINF:-1 tvg-id="MusicChoiceTodaysCountry.us" tvg-name="MC Today's Country" group-title="Z - Offline Streams",MC Today's Country
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372097&extension=ts&play_token=U9gP3DUm9e
 
-#GROUP:ESP - Música
-#EXTINF:-1 tvg-name="MC Tropicales UK" group-title="ESP - Música",MC Tropicales UK
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1014285&extension=ts&play_token=XYkBUpZwTu
-#EXTINF:-1 tvg-name="MC Romantic Latin Pop - DIRECT ᴴᴰ" group-title="ESP - Música",MC Romantic Latin Pop - DIRECT ᴴᴰ
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921457&extension=ts&play_token=YamoAKL7bD
-#EXTINF:-1 tvg-name="MC Tropicales" group-title="ESP - Música",MC Tropicales
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372116&extension=ts&play_token=JEUbEmhyZD
-#EXTINF:-1 tvg-name="MC Tropicales" group-title="ESP - Música",MC Tropicales
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1372098&extension=ts&play_token=LPdLaOL2Gl
-
 
 ==================================================
 
 #PLAYLIST:x stingray
 #EXTGRP:x stingray
 
-#GROUP:ENG - Music Videos
-#EXTINF:-1 tvg-id="QelloConcertsbyStingray.us" tvg-name="Qello Concerts by Stingray FHD" group-title="ENG - Music Videos",Qello Concerts by Stingray FHD
+#GROUP:Music (All Lang)
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.us" tvg-name="Qello Concerts by Stingray FHD" group-title="Music (All Lang)",Qello Concerts by Stingray FHD
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-name="Stingray Classic Rock FHD" group-title="ENG - Music Videos",Stingray Classic Rock FHD
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-name="Stingray Classic Rock FHD" group-title="Music (All Lang)",Stingray Classic Rock FHD
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-name="Stingray Classica FHD" group-title="ENG - Music Videos",Stingray Classica FHD
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-name="Stingray Classica FHD" group-title="Music (All Lang)",Stingray Classica FHD
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayCMusic.ca@SD" tvg-name="Stingray CMusic FHD" group-title="ENG - Music Videos",Stingray CMusic FHD EPG
+#EXTINF:-1 tvg-id="StingrayCMusic.ca@SD" tvg-name="Stingray CMusic FHD" group-title="Music (All Lang)",Stingray CMusic FHD EPG
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayDJazz.ca" tvg-name="Stingray DJAZZ FHD" group-title="ENG - Music Videos",Stingray DJAZZ FHD
+#EXTINF:-1 tvg-id="StingrayDJazz.ca" tvg-name="Stingray DJAZZ FHD" group-title="Music (All Lang)",Stingray DJAZZ FHD
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-name="Stingray Easy Listening FHD" group-title="ENG - Music Videos",Stingray Easy Listening FHD
+#EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-name="Stingray Easy Listening FHD" group-title="Music (All Lang)",Stingray Easy Listening FHD
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayEuroHits.us" tvg-name="Stingray Euro Hits FHD" group-title="ENG - Music Videos",Stingray Euro Hits FHD
+#EXTINF:-1 tvg-id="StingrayEuroHits.us" tvg-name="Stingray Euro Hits FHD" group-title="Music (All Lang)",Stingray Euro Hits FHD
 https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-name="Stingray Flashback 70s FHD" group-title="ENG - Music Videos",Stingray Flashback 70s FHD
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-name="Stingray Flashback 70s FHD" group-title="Music (All Lang)",Stingray Flashback 70s FHD
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayGreatestHits.us" tvg-name="Stingray Greatest Hits FHD" group-title="ENG - Music Videos",Stingray Greatest Hits FHD
+#EXTINF:-1 tvg-id="StingrayGreatestHits.us" tvg-name="Stingray Greatest Hits FHD" group-title="Music (All Lang)",Stingray Greatest Hits FHD
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-name="Stingray Hit List FHD" group-title="ENG - Music Videos",Stingray Hit List FHD
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-name="Stingray Hit List FHD" group-title="Music (All Lang)",Stingray Hit List FHD
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca" tvg-name="Stingray Holidayscapes FHD" group-title="ENG - Music Videos",Stingray Holidayscapes FHD
+#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca" tvg-name="Stingray Holidayscapes FHD" group-title="Music (All Lang)",Stingray Holidayscapes FHD
 https://d10cyxntpn0bwm.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca" tvg-name="Stingray Holidayscapes FHD (Alt1)" group-title="ENG - Music Videos",Stingray Holidayscapes FHD (Alt1)
+#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca" tvg-name="Stingray Holidayscapes FHD (Alt1)" group-title="Music (All Lang)",Stingray Holidayscapes FHD (Alt1)
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-name="Stingray Hot Country FHD" group-title="ENG - Music Videos",Stingray Hot Country FHD
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-name="Stingray Hot Country FHD" group-title="Music (All Lang)",Stingray Hot Country FHD
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayJukeboxOldies.ca" tvg-name="Stingray Jukebox Oldies FHD" group-title="ENG - Music Videos",Stingray Jukebox Oldies FHD
+#EXTINF:-1 tvg-id="StingrayJukeboxOldies.ca" tvg-name="Stingray Jukebox Oldies FHD" group-title="Music (All Lang)",Stingray Jukebox Oldies FHD
 https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayKaraoke.ca@SD" tvg-name="Stingray Karaoke FHD" group-title="ENG - Music Videos",Stingray Karaoke FHD
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca@SD" tvg-name="Stingray Karaoke FHD" group-title="Music (All Lang)",Stingray Karaoke FHD
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-name="Stingray Naturescape FHD" group-title="ENG - Music Videos",Stingray Naturescape FHD
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-name="Stingray Naturescape FHD" group-title="Music (All Lang)",Stingray Naturescape FHD
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayNothinbut90s.ca" tvg-name="Stingray Nothin' But 90s FHD" group-title="ENG - Music Videos",Stingray Nothin' But 90s FHD
+#EXTINF:-1 tvg-id="StingrayNothinbut90s.ca" tvg-name="Stingray Nothin' But 90s FHD" group-title="Music (All Lang)",Stingray Nothin' But 90s FHD
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-name="Stingray Pop Adult FHD" group-title="ENG - Music Videos",Stingray Pop Adult FHD
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-name="Stingray Pop Adult FHD" group-title="Music (All Lang)",Stingray Pop Adult FHD
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayRememberthe80s.ca" tvg-name="Stingray Remember the 80s FHD" group-title="ENG - Music Videos",Stingray Remember the 80s FHD
+#EXTINF:-1 tvg-id="StingrayRememberthe80s.ca" tvg-name="Stingray Remember the 80s FHD" group-title="Music (All Lang)",Stingray Remember the 80s FHD
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayAlternative.ca" tvg-name="Stingray Alternative FHD" group-title="ENG - Music Videos",Stingray Alternative FHD
+#EXTINF:-1 tvg-id="StingrayAlternative.ca" tvg-name="Stingray Alternative FHD" group-title="Music (All Lang)",Stingray Alternative FHD
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayRomanceLatino.us" tvg-name="Stingray Romance Latino FHD" group-title="ENG - Music Videos",Stingray Romance Latino FHD
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.us" tvg-name="Stingray Romance Latino FHD" group-title="Music (All Lang)",Stingray Romance Latino FHD
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingraySmoothJazz.ca" tvg-name="Stingray Smooth Jazz FHD" group-title="ENG - Music Videos",Stingray Smooth Jazz FHD
+#EXTINF:-1 tvg-id="StingraySmoothJazz.ca" tvg-name="Stingray Smooth Jazz FHD" group-title="Music (All Lang)",Stingray Smooth Jazz FHD
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Soft Hits FHD" group-title="ENG - Music Videos",Stingray Soft Hits FHD
+#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Soft Hits FHD" group-title="Music (All Lang)",Stingray Soft Hits FHD
 https://lotus.stingray.com/manifest/ose-237ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingraySoulStorm.us" tvg-name="Stingray Soul Storm FHD" group-title="ENG - Music Videos",Stingray Soul Storm FHD
+#EXTINF:-1 tvg-id="StingraySoulStorm.us" tvg-name="Stingray Soul Storm FHD" group-title="Music (All Lang)",Stingray Soul Storm FHD
 https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayTheSpa.us" tvg-name="Stingray The Spa FHD" group-title="ENG - Music Videos",Stingray The Spa FHD
+#EXTINF:-1 tvg-id="StingrayTheSpa.us" tvg-name="Stingray The Spa FHD" group-title="Music (All Lang)",Stingray The Spa FHD
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Today's KPOP FHD" group-title="ENG - Music Videos",Stingray Today's KPOP FHD
+#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Today's KPOP FHD" group-title="Music (All Lang)",Stingray Today's KPOP FHD
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Today's Latin Pop FHD" group-title="ENG - Music Videos",Stingray Today's Latin Pop FHD
+#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Today's Latin Pop FHD" group-title="Music (All Lang)",Stingray Today's Latin Pop FHD
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Urban Beat FHD" group-title="ENG - Music Videos",Stingray Urban Beat FHD
+#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Urban Beat FHD" group-title="Music (All Lang)",Stingray Urban Beat FHD
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray ZenLIFE FHD" group-title="ENG - Music Videos",Stingray ZenLIFE FHD
+#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray ZenLIFE FHD" group-title="Music (All Lang)",Stingray ZenLIFE FHD
 https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
 
 
